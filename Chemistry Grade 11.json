@@ -5579,7 +5579,3800 @@
   }
     }
               },
-              "Chapter 21: Organix Synthesis": {
+
+
+
+              
+
+              "Chapter 17: Halogenoalkanes": {
+    "Questions": {
+  "M1": {
+    "a": "Aryl halides",
+    "ans": "b",
+    "b": "Alkyl halides",
+    "c": "Alkanols",
+    "d": "Alkenes",
+    "q": "What is another common name for halogenoalkanes?",
+    "topic": "Types of Halogenoalkanes"
+  },
+  "M2": {
+    "a": "Polar solvents",
+    "ans": "b",
+    "b": "Non-polar solvents",
+    "c": "Protic solvents",
+    "d": "Ionic solvents",
+    "q": "Halogenoalkanes are most commonly used as what type of solvents?",
+    "topic": "Types of Halogenoalkanes"
+  },
+  "M3": {
+    "a": "$\\text{R-OH}$",
+    "ans": "c",
+    "b": "$\\text{R-COOH}$",
+    "c": "$\\text{R-X}$",
+    "d": "$\\text{R-NH}_2$",
+    "q": "What is the general formula of alkyl halides?",
+    "topic": "Types of Halogenoalkanes"
+  },
+  "M4": {
+    "a": "A halogen atom",
+    "ans": "a",
+    "b": "An alkyl group",
+    "c": "A hydroxyl group",
+    "d": "An amino group",
+    "q": "Halogenoalkanes are defined as compounds in which one hydrogen atom of an alkane has been replaced by:",
+    "topic": "Types of Halogenoalkanes"
+  },
+  "M5": {
+    "a": "Poly haloalkanes",
+    "ans": "a",
+    "b": "Cyclo haloalkanes",
+    "c": "Aromatic haloalkanes",
+    "d": "Unsaturated haloalkanes",
+    "q": "Depending on the number of halogen atoms present in the molecule, haloalkanes may be mono, di, tri, or:",
+    "topic": "Types of Halogenoalkanes"
+  },
+  "M6": {
+    "a": "The carbon to which three alkyl groups are attached",
+    "ans": "c",
+    "b": "The carbon to which two alkyl groups are attached",
+    "c": "The carbon to which one or no alkyl group is attached",
+    "d": "The carbon bonded to four halogen atoms",
+    "q": "In the classification of alkyl halides, what is a primary carbon defined as?",
+    "topic": "Types of Halogenoalkanes"
+  },
+  "M7": {
+    "a": "Based on the molecular mass and boiling point",
+    "ans": "b",
+    "b": "Based on the type of halogen atom and its position in the carbon chain",
+    "c": "Based on the total number of carbon atoms in the alkane",
+    "d": "Based on the solubility in water",
+    "q": "How are halogenoalkanes classified into primary, secondary, and tertiary alkyl halides?",
+    "topic": "Types of Halogenoalkanes"
+  },
+  "M8": {
+    "a": "One alkyl group",
+    "ans": "b",
+    "b": "Two alkyl groups",
+    "c": "Three alkyl groups",
+    "d": "No alkyl groups",
+    "q": "In a secondary alkyl halide, the halogen atom is attached to a secondary carbon atom which has how many alkyl groups attached to it?",
+    "topic": "Types of Halogenoalkanes"
+  },
+  "M9": {
+    "a": "One alkyl group",
+    "ans": "c",
+    "b": "Two alkyl groups",
+    "c": "Three alkyl groups",
+    "d": "Four alkyl groups",
+    "q": "In a tertiary alkyl halide, the halogen atom is attached to a carbon atom to which how many alkyl groups are attached?",
+    "topic": "Types of Halogenoalkanes"
+  },
+  "M10": {
+    "a": "$\\text{CH}_3-\\text{CH}_2-\\text{Cl}$",
+    "ans": "b",
+    "b": "$\\text{CH}_3-\\text{Cl}$",
+    "c": "$\\text{CH}_3-\\text{CH}_2-\\text{CH}_2-\\text{Cl}$",
+    "d": "$\\text{CH}_3-\\text{CH}(\\text{Cl})-\\text{CH}_3$",
+    "q": "Which of the following compounds represents chloromethane, also known as methyl chloride?",
+    "topic": "Types of Halogenoalkanes"
+  },
+  "M11": {
+    "a": "$\\text{CH}_3-\\text{Cl}$",
+    "ans": "b",
+    "b": "$\\text{CH}_3-\\text{CH}_2-\\text{Cl}$",
+    "c": "$\\text{CH}_3-\\text{CH}_2-\\text{CH}_2-\\text{Cl}$",
+    "d": "$\\text{CH}_3-\\text{CH}(\\text{Cl})-\\text{CH}_3$",
+    "q": "Which of the following is an example of an ethyl chloride molecule?",
+    "topic": "Types of Halogenoalkanes"
+  },
+  "M12": {
+    "a": "$\\text{CH}_3-\\text{CH}_2-\\text{Cl}$",
+    "ans": "b",
+    "b": "$\\text{CH}_3-\\text{CH}_2-\\text{CH}_2-\\text{Cl}$",
+    "c": "$\\text{CH}_3-\\text{CH}(\\text{Cl})-\\text{CH}_3$",
+    "d": "$\\text{CH}_3-\\text{C}(\\text{CH}_3)_2-\\text{Cl}$",
+    "q": "Which of the following represents n-propyl chloride (chloropropane)?",
+    "topic": "Types of Halogenoalkanes"
+  },
+  "M13": {
+    "a": "A primary alkyl halide",
+    "ans": "b",
+    "b": "A secondary alkyl halide",
+    "c": "A tertiary alkyl halide",
+    "d": "A trihaloalkane",
+    "q": "Which of the following describes 2-chloropropane (iso-propyl chloride)?",
+    "topic": "Types of Halogenoalkanes"
+  },
+  "M14": {
+    "a": "Because they are formed by adding halogens across double bonds",
+    "ans": "b",
+    "b": "Because they are derived by replacing hydrogen atoms of alkanes with halogen atoms",
+    "c": "Because they contain only halogen and hydrogen atoms",
+    "d": "Because they easily hydrolyze into alcohols",
+    "q": "Why are halogenoalkanes described as halogen derivatives of alkanes?",
+    "topic": "Types of Halogenoalkanes"
+  },
+  "M15": {
+    "a": "A primary alkyl halide",
+    "ans": "c",
+    "b": "A secondary alkyl halide",
+    "c": "A tertiary alkyl halide",
+    "d": "A monohaloalkane with a primary carbon",
+    "q": "Which of the following represents 2-methyl-2-chloropropane (t-butyl chloride)?",
+    "topic": "Types of Halogenoalkanes"
+  },
+  "M16": {
+    "a": "Primary carbon atom",
+    "ans": "b",
+    "b": "Secondary carbon atom",
+    "c": "Tertiary carbon atom",
+    "d": "Quaternary carbon atom",
+    "q": "In 2-chlorobutane (sec-butyl chloride), the carbon atom bonded to the chlorine atom is a:",
+    "topic": "Types of Halogenoalkanes"
+  },
+  "M17": {
+    "a": "Primary alkyl halide",
+    "ans": "c",
+    "b": "Secondary alkyl halide",
+    "c": "Tertiary alkyl halide",
+    "d": "Monohaloalkane",
+    "q": "An organic compound is synthesized where a halogen atom is bonded to a carbon atom that is connected to three separate alkyl groups. How should this compound be classified?",
+    "topic": "Types of Halogenoalkanes"
+  },
+  "M18": {
+    "a": "Primary alkyl halide",
+    "ans": "b",
+    "b": "Secondary alkyl halide",
+    "c": "Tertiary alkyl halide",
+    "d": "Polyhaloalkane",
+    "q": "During a chemical structure analysis, a researcher identifies an alkyl halide molecule where the halogen atom is attached to a carbon atom bonded to two alkyl groups. This molecule is classified as a:",
+    "topic": "Types of Halogenoalkanes"
+  },
+  "M19": {
+    "a": "Primary alkyl halide",
+    "ans": "a",
+    "b": "Secondary alkyl halide",
+    "c": "Tertiary alkyl halide",
+    "d": "Trihaloalkane",
+    "q": "A student is asked to prepare an alkyl halide where the halogen atom is attached to a carbon atom that has one or no alkyl groups attached. Which category of alkyl halide is being prepared?",
+    "topic": "Types of Halogenoalkanes"
+  },
+  "M20": {
+    "a": "Mono, di, tri, or poly haloalkanes",
+    "ans": "a",
+    "b": "Primary, secondary, or tertiary haloalkanes",
+    "c": "Alkyl and aryl derivatives",
+    "d": "Polar and non-polar solvents",
+    "q": "An investigator studying halogen derivatives of alkanes observes a molecule containing multiple halogen atoms replacing hydrogen atoms across the alkane chain. Which classification term describes this variability based on halogen count?",
+    "topic": "Types of Halogenoalkanes"
+  },
+  "M21": {
+    "a": "$sp$ hybridized",
+    "ans": "c",
+    "b": "$sp^2$ hybridized",
+    "c": "$sp^3$ hybridized",
+    "d": "$dsp^2$ hybridized",
+    "q": "What type of hybridization is present in the carbon atom of halogenoalkanes ($R-X$)?",
+    "topic": "Physical Properties"
+  },
+  "M22": {
+    "a": "Lower",
+    "ans": "b",
+    "b": "Higher",
+    "c": "Equal",
+    "d": "Variable without relation",
+    "q": "How do the melting and boiling points of alkyl halides generally compare with those of alkanes?",
+    "topic": "Physical Properties"
+  },
+  "M23": {
+    "a": "On the carbon atom",
+    "ans": "c",
+    "b": "Equally distributed between both atoms",
+    "c": "On the halogen atom ($X$)",
+    "d": "Outside the bonding region",
+    "q": "In the carbon-halogen bond ($C-X$), where is the bond pair electron density more concentrated?",
+    "topic": "Physical Properties"
+  },
+  "M24": {
+    "a": "Due to the presence of double bonds",
+    "ans": "b",
+    "b": "Due to the electronegativity difference between carbon and halogen",
+    "c": "Due to identical electronegativity values",
+    "d": "Due to the absence of hybridization",
+    "q": "Why are carbon-halogen ($C-X$) bonds typically quite polar?",
+    "topic": "Physical Properties"
+  },
+  "M25": {
+    "a": "$\\sigma$ bond",
+    "ans": "a",
+    "b": "$\\pi$ bond",
+    "c": "Coordinate covalent bond",
+    "d": "Hydrogen bond",
+    "q": "By which type of bond is the halogen atom ($X$) attached to the $sp^3$ hybridized carbon atom in halogenoalkanes ($R-X$)?",
+    "topic": "Physical Properties"
+  },
+  "M26": {
+    "a": "Carbon",
+    "ans": "c",
+    "b": "Both have equal electronegativity",
+    "c": "Halogen",
+    "d": "Neither",
+    "q": "Between carbon and halogen in a $C-X$ bond, which atom is more electronegative?",
+    "topic": "Physical Properties"
+  },
+  "M27": {
+    "a": "Molecular mass symmetry",
+    "ans": "b",
+    "b": "Bond polarity of the $C-X$ bond",
+    "c": "Absence of halogen atoms",
+    "d": "Pure covalent non-polar bonding",
+    "q": "What is the primary reason for alkyl halides having high melting and boiling points compared to alkanes?",
+    "topic": "Physical Properties"
+  },
+  "M28": {
+    "a": "Partial positive ($\\delta^+$)",
+    "ans": "a",
+    "b": "Partial negative ($\\delta^-$)",
+    "c": "Full positive charge",
+    "d": "Neutral charge",
+    "q": "What type of partial charge is acquired by the carbon atom in a polarized carbon-halogen ($C-X$) bond?",
+    "topic": "Physical Properties"
+  },
+  "M29": {
+    "a": "Electron density shifts entirely toward carbon",
+    "ans": "c",
+    "b": "Electron density is equally shared without polarization",
+    "c": "Bond pair electron density becomes more concentrated on the halogen atom ($X$)",
+    "d": "Electrons are completely transferred to form ions",
+    "q": "In a halogenoalkane molecule ($R-X$), if the halogen atom is more electronegative than the $sp^3$ hybridized carbon atom, how does this affect the distribution of bonding electrons?",
+    "topic": "Physical Properties"
+  },
+  "M30": {
+    "a": "Alkyl halides exhibit lower melting and boiling points",
+    "ans": "b",
+    "b": "Alkyl halides exhibit higher melting and boiling points due to bond polarity",
+    "c": "Melting and boiling points remain identical",
+    "d": "Alkanes have higher values due to halogen absence",
+    "q": "When analyzing the physical properties of halogenoalkanes ($R-X$) containing a polarized $C-X$ bond compared to alkanes, how do their melting and boiling points behave?",
+    "topic": "Physical Properties"
+  },
+  "M31": {
+    "a": "Pyridine",
+    "ans": "b",
+    "b": "Anhydrous $\\text{ZnCl}_2$",
+    "c": "Carbon tetrachloride",
+    "d": "Ultraviolet light",
+    "q": "What catalyst is used when converting an alcohol to an alkyl halide using $\\text{HCl}$?",
+    "topic": "Preparation of Alkyl Halide"
+  },
+  "M32": {
+    "a": "$\\text{PCl}_5$",
+    "ans": "b",
+    "b": "$\\text{SOCl}_2$",
+    "c": "$\\text{PBr}_3$",
+    "d": "$\\text{HCl}$",
+    "q": "Which reagent is used alongside pyridine as a solvent to convert alcohols to alkyl halides?",
+    "topic": "Preparation of Alkyl Halide"
+  },
+  "M33": {
+    "a": "$\\text{HCl} > \\text{HBr} > \\text{HI}$",
+    "ans": "c",
+    "b": "$\\text{HBr} > \\text{HCl} > \\text{HI}$",
+    "c": "$\\text{HI} > \\text{HBr} > \\text{HCl}$",
+    "d": "$\\text{HCl} > \\text{HI} > \\text{HBr}$",
+    "q": "What is the order of reactivity of halogen acids in the hydrohalogenation of alkenes?",
+    "topic": "Preparation of Alkyl Halide"
+  },
+  "M34": {
+    "a": "Chlorine",
+    "ans": "c",
+    "b": "Bromine",
+    "c": "Fluorine",
+    "d": "Iodine",
+    "q": "Which halogen is described as too reactive to control the reaction with alkenes?",
+    "topic": "Preparation of Alkyl Halide"
+  },
+  "M35": {
+  "a": "Fluorine",
+  "ans": "d",
+  "b": "Chlorine",
+  "c": "Bromine",
+  "d": "Iodine",
+  "q": "Which halogen does not react with alkenes?",
+  "topic": "Preparation of Alkyl Halide"
+},
+  "M36": {
+    "a": "Electrophilic addition mechanism",
+    "ans": "b",
+    "b": "Free radical mechanism",
+    "c": "Nucleophilic substitution mechanism",
+    "d": "Elimination mechanism",
+    "q": "The reaction of alkanes with chlorine or bromine in the presence of diffused sunlight or ultraviolet light proceeds through which mechanism?",
+    "topic": "Preparation of Alkyl Halide"
+  },
+  "M37": {
+    "a": "Because the reaction does not go to completion",
+    "ans": "c",
+    "b": "Because hydrogen atoms are completely removed instantly",
+    "c": "Halogen derivatives containing two or more halogen atoms are also formed along with alkyl halides",
+    "d": "Because alkenes are formed as side products",
+    "q": "Why does the halogenation of alkanes not yield pure alkyl halides?",
+    "topic": "Preparation of Alkyl Halide"
+  },
+  "M38": {
+    "a": "Alkyl halide",
+    "ans": "b",
+    "b": "Vicinal dihalides or $1,2$-dihaloalkanes",
+    "c": "Halogen acid",
+    "d": "Hydrogen gas and alkane",
+    "q": "What is formed when an alkene reacts with a halogen in an inert solvent like carbon tetrachloride at room temperature?",
+    "topic": "Preparation of Alkyl Halide"
+  },
+  "M39": {
+    "a": "Breaking of carbon-carbon single bond followed by nucleophilic substitution",
+    "ans": "b",
+    "b": "Breaking of carbon-carbon double bond, followed by electrophilic addition of H-atom and halogen",
+    "c": "Free radical substitution of hydrogen",
+    "d": "Oxidation of carbon-carbon double bond",
+    "q": "The addition of halogen acid to an alkene involves which initial key steps?",
+    "topic": "Preparation of Alkyl Halide"
+  },
+  "M40": {
+    "a": "Anti-Markonikov's rule",
+    "ans": "b",
+    "b": "Markonikov's rule",
+    "c": "Saytzeff's rule",
+    "d": "Hund's rule",
+    "q": "The addition of halogen acid to an unsymmetrical alkene follows which rule?",
+    "topic": "Preparation of Alkyl Halide"
+  },
+  "M41": {
+    "a": "$\\text{H}_2\\text{O}$ and $\\text{SO}_2$",
+    "ans": "b",
+    "b": "$\\text{HCl}$ and $\\text{SO}_2$",
+    "c": "$\\text{H}_3\\text{PO}_3$ and $\\text{HCl}$",
+    "d": "$\\text{POCl}_3$ and $\\text{HCl}$",
+    "q": "What are the byproducts formed when ethanol ($\\text{CH}_3\\text{CH}_2\\text{OH}$) reacts with thionyl chloride ($\\text{SOCl}_2$) in the presence of pyridine?",
+    "topic": "Preparation of Alkyl Halide"
+  },
+  "M42": {
+    "a": "$\\text{POCl}_3$",
+    "ans": "c",
+    "b": "$\\text{H}_3\\text{PO}_4$",
+    "c": "$\\text{H}_3\\text{PO}_3$",
+    "d": "$\\text{SO}_2$",
+    "q": "When alcohol reacts with phosphorus tribromide ($\\text{PBr}_3$), what phosphorus-containing byproduct is produced?",
+    "topic": "Preparation of Alkyl Halide"
+  },
+  "M43": {
+    "a": "$\\text{F}_2$ and $\\text{Cl}_2$",
+    "ans": "b",
+    "b": "$\\text{Br}_2$ and $\\text{Cl}_2$",
+    "c": "$\\text{I}_2$ and $\\text{Br}_2$",
+    "d": "$\\text{HF}$ and $\\text{HCl}$",
+    "q": "Which halogens are effective electrophilic reagents for addition reactions with alkenes?",
+    "topic": "Preparation of Alkyl Halide"
+  },
+  "M44": {
+    "a": "It acts as a catalyst to replace carbon atoms",
+    "ans": "b",
+    "b": "It provides the energy required for the hydrogen of alkane to be replaced by halogen",
+    "c": "It acts as an inert solvent",
+    "d": "It prevents the formation of dihalogen derivatives",
+    "q": "In the preparation of alkyl halides from alkanes, what is the role of diffused sunlight or ultraviolet light?",
+    "topic": "Preparation of Alkyl Halide"
+  },
+  "M45": {
+    "a": "Halogenation",
+    "ans": "b",
+    "b": "Hydrohalogenation",
+    "c": "Dehydrohalogenation",
+    "d": "Hydrogenation",
+    "q": "What is the term given to the addition of a halogen acid to an alkene?",
+    "topic": "Preparation of Alkyl Halide"
+  },
+  "M46": {
+    "a": "A $100\\%$ pure single alkyl halide product will be isolated.",
+    "ans": "b",
+    "b": "A mixture of alkyl halides and halogen derivatives containing two or more halogen atoms will be produced.",
+    "c": "No reaction will occur because alkanes do not react with halogens.",
+    "d": "An alkene and hydrogen gas will be formed directly.",
+    "q": "A student attempts to prepare pure alkyl halide by treating an alkane with chlorine gas in the presence of ultraviolet light. What is the expected outcome of this procedure?",
+    "topic": "Preparation of Alkyl Halide"
+  },
+  "M47": {
+    "a": "$\\text{HCl}$ in the presence of anhydrous $\\text{ZnCl}_2$",
+    "ans": "b",
+    "b": "$\\text{SOCl}_2$ in the presence of pyridine as a solvent",
+    "c": "Phosphorus pentachloride ($\\text{PCl}_5$)",
+    "d": "Phosphorus triiodide ($\\text{PI}_3$)",
+    "q": "An organic chemist needs to convert an alcohol into an alkyl halide using a specific reagent and solvent system that avoids forming water. Which method accomplishes this?",
+    "topic": "Preparation of Alkyl Halide"
+  },
+  "M48": {
+    "a": "Breaking of carbon-carbon single bond followed by free radical substitution",
+    "ans": "b",
+    "b": "Breaking of carbon-carbon double bond, followed by electrophilic addition of H-atom and halogen",
+    "c": "Nucleophilic substitution of hydrogen atoms",
+    "d": "Elimination of halogen acids to form alkynes",
+    "q": "During a laboratory procedure, ethene ($\\text{H}_2\\text{C}=\\text{CH}_2$) is treated with an aqueous solution of halogen acid at room temperature. What type of bond breaking and addition mechanism does this reaction undergo?",
+    "topic": "Preparation of Alkyl Halide"
+  },
+  "M49": {
+    "a": "$\\text{HCl}$",
+    "ans": "c",
+    "b": "$\\text{HBr}$",
+    "c": "$\\text{HI}$",
+    "d": "All halogen acids react at the exact same rate",
+    "q": "If a laboratory experiment tests different halogen acids ($\\text{HI}$, $\\text{HBr}$, and $\\text{HCl}$) for their reactivity rate with alkenes at room temperature, which acid will exhibit the highest reactivity?",
+    "topic": "Preparation of Alkyl Halide"
+  },
+  "M50": {
+    "a": "Monohalogenated alkane",
+    "ans": "b",
+    "b": "Vicinal dihalides or $1,2$-dihaloalkanes",
+    "c": "Trihaloalkane",
+    "d": "Alcohol and halogen acid",
+    "q": "What specific type of product is formed when ethene reacts with chlorine in an inert solvent like carbon tetrachloride at room temperature?",
+    "topic": "Preparation of Alkyl Halide"
+  },
+  "M51": {
+    "a": "One",
+    "ans": "b",
+    "b": "Two",
+    "c": "Three",
+    "d": "Four",
+    "q": "How many main factors control the reactivity of halogenoalkanes?",
+    "topic": "Reactivity"
+  },
+  "M52": {
+    "a": "Bond length and bond angle",
+    "ans": "b",
+    "b": "Bond polarity and bond energy of $C-X$ bond",
+    "c": "Atomic radius and ionization energy",
+    "d": "Electron affinity and polarizability",
+    "q": "What are the two primary factors controlling the reactivity of halogenoalkanes?",
+    "topic": "Reactivity"
+  },
+  "M53": {
+    "a": "Due to the equal electronegativity of carbon and halogen",
+    "ans": "b",
+    "b": "Due to the greater electronegativity of halogens compared to $C$",
+    "c": "Due to the lower electronegativity of halogens compared to $C$",
+    "d": "Due to the high bond energy of the $C-H$ bond",
+    "q": "In an alkyl halide molecule, why does the molecule become polarized?",
+    "topic": "Reactivity"
+  },
+  "M54": {
+    "a": "Partial negative charge",
+    "ans": "c",
+    "b": "Full negative charge",
+    "c": "Partial positive charge",
+    "d": "Neutral charge",
+    "q": "When an alkyl halide is polarized, what type of charge does the carbon atom acquire?",
+    "topic": "Reactivity"
+  },
+  "M55": {
+    "a": "Ionization energy",
+    "ans": "b",
+    "b": "Bond energy",
+    "c": "Lattice energy",
+    "d": "Activation energy",
+    "q": "What is defined as the energy required to break the bond of the same type in one mole of bonds?",
+    "topic": "Reactivity"
+  },
+  "M56": {
+    "a": "$C-I$ bond",
+    "ans": "d",
+    "b": "$C-Br$ bond",
+    "c": "$C-Cl$ bond",
+    "d": "$C-F$ bond",
+    "q": "Which of the following carbon-halogen bonds is identified as the strongest?",
+    "topic": "Reactivity"
+  },
+  "M57": {
+    "a": "$C-F$ bond",
+    "ans": "d",
+    "b": "$C-Cl$ bond",
+    "c": "$C-Br$ bond",
+    "d": "$C-I$ bond",
+    "q": "Which of the following carbon-halogen bonds is identified as the weakest?",
+    "topic": "Reactivity"
+  },
+  "M58": {
+    "a": "$R-I > R-Br > R-Cl > R-F$",
+    "ans": "b",
+    "b": "$R-F > R-Cl > R-Br > R-I$",
+    "c": "$R-Cl > R-F > R-I > R-Br$",
+    "d": "$R-Br > R-I > R-F > R-Cl$",
+    "q": "According to bond polarity, how does the reactivity order of alkyl halides decrease?",
+    "topic": "Reactivity"
+  },
+  "M59": {
+    "a": "$R-F > R-Cl > R-Br > R-I$",
+    "ans": "b",
+    "b": "$R-I > R-Br > R-Cl > R-F$",
+    "c": "$R-Br > R-I > R-F > R-Cl$",
+    "d": "$R-Cl > R-F > R-I > R-Br$",
+    "q": "Considering the strength of the $C-X$ bond, what is the overall order of reactivity of alkyl halides?",
+    "topic": "Reactivity"
+  },
+  "M60": {
+    "a": "Because the $C-F$ bond is extremely weak",
+    "ans": "b",
+    "b": "Because the $C-F$ bond is exceptionally strong",
+    "c": "Because fluorine has the lowest electronegativity",
+    "d": "Because alkyl fluorides are non-polar molecules",
+    "q": "Why do alkyl fluorides fail to react under ordinary conditions?",
+    "topic": "Reactivity"
+  },
+  "M61": {
+    "a": "More energy will be required to break the bond",
+    "ans": "a",
+    "b": "Less energy will be required to break the bond",
+    "c": "No energy is required to break the bond",
+    "d": "The bond breaks spontaneously without activation",
+    "q": "What happens to the amount of energy required to break a bond when the bond energy is greater?",
+    "topic": "Reactivity"
+  },
+  "M62": {
+    "a": "Oxidizing character",
+    "ans": "c",
+    "b": "Reducing character",
+    "c": "Nucleophilic character",
+    "d": "Electrophilic character",
+    "q": "When a halogen acquires a partial negative charge in an alkyl halide, what characteristic does it develop that allows it to be replaced by another species?",
+    "topic": "Reactivity"
+  },
+  "M63": {
+    "a": "Compound containing $C-F$ bond",
+    "ans": "b",
+    "b": "Compound containing $C-I$ bond",
+    "c": "Both will require equal energy",
+    "d": "Neither compound can have its bond broken",
+    "q": "An experimental chemist is comparing the stability and bond energy of various alkyl halides. If compound $A$ contains a $C-I$ bond and compound $B$ contains a $C-F$ bond, which compound will require the least amount of energy to break its carbon-halogen bond?",
+    "topic": "Reactivity"
+  },
+  "M64": {
+    "a": "$C-I$ bond is weaker than $C-F$ bond",
+    "ans": "a",
+    "b": "$C-I$ bond is stronger than $C-F$ bond",
+    "c": "Fluorine is less electronegative than iodine",
+    "d": "Alkyl iodide has a higher bond energy than alkyl fluoride",
+    "q": "During a substitution reaction, a researcher observes that an alkyl iodide reacts much faster than an alkyl fluoride under identical conditions. Based on bond strength principles, what conclusion explains this behavior?",
+    "topic": "Reactivity"
+  },
+  "M65": {
+    "a": "The bond is non-polar and stable",
+    "ans": "b",
+    "b": "The bond is extremely strong and requires high energy to break",
+    "c": "The carbon atom carries a partial negative charge",
+    "d": "Fluorine acts as a weak nucleophile",
+    "q": "A laboratory technician attempts a chemical synthesis using an alkyl fluoride at room temperature and normal pressure, but observes no reaction. What fundamental property of the carbon-fluorine bond accounts for this lack of reactivity under ordinary conditions?",
+    "topic": "Reactivity"
+  },
+  "M66": {
+    "a": "Three",
+    "ans": "b",
+    "b": "Two",
+    "c": "Four",
+    "d": "One",
+    "q": "How many primary types of reactions do alkyl halides undergo?",
+    "topic": "Reactions of Alkyl Halides"
+  },
+  "M67": {
+    "a": "Addition reaction",
+    "ans": "d",
+    "b": "Condensation reaction",
+    "c": "Polymerization reaction",
+    "d": "Elimination reaction",
+    "q": "Which of the following is classified as a reaction type of alkyl halides?",
+    "topic": "Reactions of Alkyl Halides"
+  },
+  "M68": {
+    "a": "$S_N$ Reaction",
+    "ans": "a",
+    "b": "$E_1$ Reaction",
+    "c": "$E_2$ Reaction",
+    "d": "$S_N1$ Reaction",
+    "q": "What is the abbreviation used for nucleophilic substitution reactions?",
+    "topic": "Reactions of Alkyl Halides"
+  },
+  "M69": {
+    "a": "Hydrogen is replaced by an electrophile",
+    "ans": "b",
+    "b": "Halogen of alkyl halide is substituted or replaced by attacking nucleophile",
+    "c": "Carbon-carbon double bond is converted to a single bond",
+    "d": "Halogen is added to an alkene",
+    "q": "What occurs during a nucleophilic substitution ($S_N$) reaction of an alkyl halide?",
+    "topic": "Reactions of Alkyl Halides"
+  },
+  "M70": {
+    "a": "Substrate molecule",
+    "ans": "a",
+    "b": "Leaving group",
+    "c": "Electrophile",
+    "d": "Reagent",
+    "q": "What is the term given to the alkyl halide molecule on which a nucleophile attacks?",
+    "topic": "Reactions of Alkyl Halides"
+  },
+  "M71": {
+    "a": "It has a positive charge and accepts electrons",
+    "ans": "b",
+    "b": "It has a lone pair of electrons and donates a pair of electrons to an electrophilic carbon",
+    "c": "It has unpaired electrons and acts as a free radical",
+    "d": "It is always a neutral halogen molecule",
+    "q": "What is the defining characteristic of a nucleophile?",
+    "topic": "Reactions of Alkyl Halides"
+  },
+  "M72": {
+    "a": "$\\text{HO}^-$",
+    "ans": "a",
+    "b": "$\\text{Na}^+$",
+    "c": "$\\text{H}^+$",
+    "d": "$\\text{Cl}_2$",
+    "q": "Which of the following species is explicitly listed as a nucleophile?",
+    "topic": "Reactions of Alkyl Halides"
+  },
+  "M73": {
+    "a": "Substrate",
+    "ans": "b",
+    "b": "Leaving group",
+    "c": "Nucleophile",
+    "d": "Catalyst",
+    "q": "What is the halogen of an alkyl halide called when it acts in a substitution reaction?",
+    "topic": "Reactions of Alkyl Halides"
+  },
+  "M74": {
+    "a": "Without any electrons",
+    "ans": "b",
+    "b": "With an unshared pair of electrons",
+    "c": "As a neutral free radical",
+    "d": "By forming a double bond",
+    "q": "How does a leaving group depart from an alkyl halide during a substitution reaction?",
+    "topic": "Reactions of Alkyl Halides"
+  },
+  "M75": {
+    "a": "Must be weaker than the departing one",
+    "ans": "c",
+    "b": "Must be equal in strength to the departing one",
+    "c": "Must be stronger than the departing one",
+    "d": "Strength does not matter",
+    "q": "What relative strength must an incoming nucleophile possess to replace a departing leaving group?",
+    "topic": "Reactions of Alkyl Halides"
+  },
+  "M76": {
+    "a": "$\\text{OH}^-$",
+    "ans": "c",
+    "b": "$\\text{OR}^-$",
+    "c": "$\\text{Cl}^-$",
+    "d": "$\\text{NH}_2^-$",
+    "q": "Which of the following is cited as a good leaving group?",
+    "topic": "Reactions of Alkyl Halides"
+  },
+  "M77": {
+    "a": "$\\text{Cl}^-$",
+    "ans": "c",
+    "b": "$\\text{Br}^-$",
+    "c": "$\\text{OH}^-$",
+    "d": "$\\text{HSO}_4^-$",
+    "q": "Which of the following is explicitly classified as a poor leaving group?",
+    "topic": "Reactions of Alkyl Halides"
+  },
+  "M78": {
+  "a": "Chloride ion",
+  "ans": "b",
+  "b": "Iodide ion",
+  "c": "Hydroxide ion",
+  "d": "Bromide ion",
+  "q": "Which ion acts as both a good nucleophile and a good leaving group?",
+  "topic": "Reactions of Alkyl Halides"
+},
+  "M79": {
+    "a": "An ether",
+    "ans": "b",
+    "b": "An alcohol",
+    "c": "A nitrile",
+    "d": "An amine",
+    "q": "What product is produced when an alkyl halide is heated with an aqueous solution of sodium hydroxide?",
+    "topic": "Reactions of Alkyl Halides"
+  },
+  "M80": {
+    "a": "$\\text{CH}_3-\\text{OH}$",
+    "ans": "a",
+    "b": "$\\text{CH}_3-\\text{CN}$",
+    "c": "$\\text{CH}_3-\\text{NH}_2$",
+    "d": "$\\text{CH}_3-\\text{NO}_3$",
+    "q": "When $\\text{CH}_3-\\text{Cl}$ is heated with aqueous $\\text{NaOH}$, what organic product is produced?",
+    "topic": "Reactions of Alkyl Halides"
+  },
+  "M81": {
+    "a": "An alcohol",
+    "ans": "b",
+    "b": "A nitrile",
+    "c": "A nitroalkane",
+    "d": "An amine",
+    "q": "When an alkyl halide is heated with $\\text{KCN}$ in ethanol, what type of organic compound is generated?",
+    "topic": "Reactions of Alkyl Halides"
+  },
+  "M82": {
+    "a": "$\\text{CH}_3-\\text{OH}$",
+    "ans": "c",
+    "b": "$\\text{CH}_3-\\text{NH}_2$",
+    "c": "$\\text{CH}_3-\\text{CN}$",
+    "d": "$\\text{CH}_3-\\text{Cl}$",
+    "q": "When $\\text{CH}_3-\\text{Cl}$ reacts with $\\text{KCN}$ in ethanol, what carbon-containing organic product is formed?",
+    "topic": "Reactions of Alkyl Halides"
+  },
+  "M83": {
+    "a": "Secondary amines",
+    "ans": "b",
+    "b": "Primary amines",
+    "c": "Tertiary amines",
+    "d": "Nitriles",
+    "q": "What class of compounds is formed when an alkyl halide is heated with excess ammonia in ethanol?",
+    "topic": "Reactions of Alkyl Halides"
+  },
+  "M84": {
+    "a": "$\\text{CH}_3-\\text{NH}_2$",
+    "ans": "a",
+    "b": "$(\\text{CH}_3)_2\\text{NH}$",
+    "c": "$(\\text{CH}_3)_3\\text{N}$",
+    "d": "$\\text{CH}_3-\\text{CN}$",
+    "q": "When $\\text{CH}_3-\\text{Cl}$ is heated with $\\text{NH}_3$, what specific amine product is generated?",
+    "topic": "Reactions of Alkyl Halides"
+  },
+  "M85": {
+    "a": "$\\text{-CN}$ group",
+    "ans": "c",
+    "b": "$\\text{-OH}$ group",
+    "c": "$\\text{-NO}_3$ group",
+    "d": "$\\text{-NH}_2$ group",
+    "q": "When an alkyl halide is heated with $\\text{AgNO}_3$ in ethanol, the halogen atom is replaced by which group to generate a nitroalkane?",
+    "topic": "Reactions of Alkyl Halides"
+  },
+  "M86": {
+    "a": "To find which halogen is present in alkyl halide",
+    "ans": "a",
+    "b": "To produce primary amines",
+    "c": "To synthesize alcohols",
+    "d": "To form carbon-carbon double bonds",
+    "q": "What is a practical application of the reaction between alkyl halides and silver nitrate in ethanol?",
+    "topic": "Reactions of Alkyl Halides"
+  },
+  "M87": {
+    "a": "$\\text{AgCl}$",
+    "ans": "b",
+    "b": "$\\text{AgBr}$",
+    "c": "$\\text{AgI}$",
+    "d": "$\\text{AgOH}$",
+    "q": "When bromoethane reacts with silver nitrate ($\\text{AgNO}_3$), what silver halide precipitate is formed?",
+    "topic": "Reactions of Alkyl Halides"
+  },
+  "M88": {
+    "a": "$\\text{Cl}^-$ ion",
+    "ans": "a",
+    "b": "$\\text{Br}^-$ ion",
+    "c": "$\\text{I}^-$ ion",
+    "d": "$\\text{F}^-$ ion",
+    "q": "In the silver nitrate test, what does the formation of a white precipitate soluble in aqueous ammonia indicate?",
+    "topic": "Reactions of Alkyl Halides"
+  },
+  "M89": {
+    "a": "$\\text{Cl}^-$ ion",
+    "ans": "b",
+    "b": "$\\text{Br}^-$ ion",
+    "c": "$\\text{I}^-$ ion",
+    "d": "$\\text{NO}_3^-$ ion",
+    "q": "In the silver nitrate test, what does a cream-coloured precipitate partially soluble in aqueous ammonia indicate?",
+    "topic": "Reactions of Alkyl Halides"
+  },
+  "M90": {
+    "a": "$\\text{Cl}^-$ ion",
+    "ans": "c",
+    "b": "$\\text{Br}^-$ ion",
+    "c": "$\\text{I}^-$ ion",
+    "d": "$\\text{OH}^-$ ion",
+    "q": "In the silver nitrate test, what does a yellow precipitate insoluble in aqueous ammonia indicate?",
+    "topic": "Reactions of Alkyl Halides"
+  },
+  "M91": {
+    "a": "Substitution reaction",
+    "ans": "b",
+    "b": "Elimination reaction",
+    "c": "Addition reaction",
+    "d": "Neutralization reaction",
+    "q": "What chemical reaction involves the elimination of a halogen and a $\\beta$-hydrogen from adjacent carbon atoms to form a carbon-carbon double bond?",
+    "topic": "Reactions of Alkyl Halides"
+  },
+  "M92": {
+    "a": "Because $\\alpha$-hydrogen is eliminated",
+    "ans": "b",
+    "b": "Because $\\beta$-hydrogen is necessary for eliminations",
+    "c": "Because halogen is attached to the $\\beta$-carbon",
+    "d": "Because it produces a beta-isomer",
+    "q": "Why is an elimination reaction of an alkyl halide also called $\\beta$-elimination?",
+    "topic": "Reactions of Alkyl Halides"
+  },
+  "M93": {
+    "a": "Inductive effect / electron withdrawing effect of halogen",
+    "ans": "a",
+    "b": "Presence of a double bond",
+    "c": "High temperature conditions",
+    "d": "Basic nature of the solvent",
+    "q": "What property makes the $\\beta$-hydrogen atom in alkyl halides slightly acidic?",
+    "topic": "Reactions of Alkyl Halides"
+  },
+  "M94": {
+    "a": "Weak acids",
+    "ans": "b",
+    "b": "Strong bases like $\\text{NaOH}$",
+    "c": "Neutral salts",
+    "d": "Dilute oxidizing agents",
+    "q": "Which type of reagent causes an elimination reaction when reacted with alkyl halides in ethanol?",
+    "topic": "Reactions of Alkyl Halides"
+  },
+  "M95": {
+    "a": "Methane",
+    "ans": "c",
+    "b": "Ethane",
+    "c": "$\\text{CH}_2=\\text{CH}_2$",
+    "d": "Ethyne",
+    "q": "When bromoethane reacts with $\\text{OH}^-$ upon heating, what unsaturated hydrocarbon is produced?",
+    "topic": "Reactions of Alkyl Halides"
+  },
+  "M96": {
+    "a": "Two",
+    "ans": "c",
+    "b": "Three",
+    "c": "One",
+    "d": "Four",
+    "q": "In primary alkyl halides, the halogen atom is attached to a carbon which is further attached to how many carbon atoms?",
+    "topic": "Exercise"
+  },
+  "M97": {
+    "a": "they have an electrophilic carbon",
+    "ans": "b",
+    "b": "they have an electrophilic carbon and a good leaving group",
+    "c": "they have an electrophilic carbon and a bad leaving group",
+    "d": "they have a nucleophilic carbon and a good leaving group",
+    "q": "Alkyl halides are considered to be very reactive compounds towards nucleophiles, because:",
+    "topic": "Exercise"
+  },
+  "M98": {
+    "a": "$H_2O$",
+    "ans": "c",
+    "b": "$H_2S$",
+    "c": "$BF_3$",
+    "d": "$NH_3$",
+    "q": "Which one of the following is not a nucleophile?",
+    "topic": "Exercise"
+  },
+  "M99": {
+    "a": "Substitution reactions",
+    "ans": "b",
+    "b": "Elimination reactions",
+    "c": "Addition reactions",
+    "d": "Rearrangement reactions",
+    "q": "Double bond is formed as a result of:",
+    "topic": "Exercise"
+  },
+  "M100": {
+    "a": "$RBr$",
+    "ans": "c",
+    "b": "$RCl$",
+    "c": "$RF$",
+    "d": "$RI$",
+    "q": "Which of the following alkyl halides cannot be formed by direct reaction of alkanes with halogen?",
+    "topic": "Exercise"
+  }
+    }
+              },
+              "Chapter 18: Alcohols": {
+    "Questions": {
+  "M1": {
+    "a": "$-\\text{OH}$",
+    "ans": "a",
+    "b": "$-\\text{COOH}$",
+    "c": "$-\\text{CHO}$",
+    "d": "$-\\text{NH}_2$",
+    "q": "What functional group is present in aliphatic organic compounds known as alcohols?",
+    "topic": "Classification of Monohydric Alcohols"
+  },
+  "M2": {
+    "a": "Inorganic salts only",
+    "ans": "b",
+    "b": "Perfumes and tinctures",
+    "c": "Synthetic rubber exclusively",
+    "d": "Metallic alloys",
+    "q": "Alcohols are widely used in making which of the following?",
+    "topic": "Classification of Monohydric Alcohols"
+  },
+  "M3": {
+    "a": "Dihydric alcohols",
+    "ans": "c",
+    "b": "Polyhydric alcohols",
+    "c": "Monohydric alcohols",
+    "d": "Trihydric alcohols",
+    "q": "What are alcohols containing one $-\\text{OH}$ group called?",
+    "topic": "Classification of Monohydric Alcohols"
+  },
+  "M4": {
+    "a": "Two",
+    "ans": "d",
+    "b": "Four",
+    "c": "Five",
+    "d": "Three",
+    "q": "Into how many families are monohydric alcohols classified?",
+    "topic": "Classification of Monohydric Alcohols"
+  },
+  "M5": {
+    "a": "Two alkyl groups",
+    "ans": "b",
+    "b": "Only one alkyl group",
+    "c": "Three alkyl groups",
+    "d": "Four alkyl groups",
+    "q": "In primary alcohols, the carbon atom of the hydroxyl group is attached to:",
+    "topic": "Classification of Monohydric Alcohols"
+  },
+  "M6": {
+    "a": "Attached to three alkyl groups",
+    "ans": "c",
+    "b": "Attached to only one alkyl group",
+    "c": "Attached to two alkyl groups",
+    "d": "Attached to no alkyl groups",
+    "q": "In secondary alcohols, the carbon atom of the hydroxyl group is:",
+    "topic": "Classification of Monohydric Alcohols"
+  },
+  "M7": {
+    "a": "The carbon atom of the hydroxyl group is attached to three alkyl groups",
+    "ans": "a",
+    "b": "The carbon atom of the hydroxyl group is attached to two alkyl groups",
+    "c": "The carbon atom of the hydroxyl group is attached to only one alkyl group",
+    "d": "The carbon atom of the hydroxyl group is unattached",
+    "q": "Which of the following statements correctly defines tertiary alcohols?",
+    "topic": "Classification of Monohydric Alcohols"
+  },
+  "M8": {
+  "a": "1,2-ethandiol",
+  "ans": "d",
+  "b": "1,2,3-propantriol",
+  "c": "Dihydric alcohol",
+  "d": "$\\text{CH}_3 - \\text{CH}_2 - \\text{OH}$",
+  "q": "Which of the following is an example of a monohydric alcohol?",
+  "topic": "Classification of Monohydric Alcohols"
+},
+  "M9": {
+    "a": "Methanol",
+    "ans": "b",
+    "b": "2-proponal",
+    "c": "Ethanol",
+    "d": "Ter-butyl alcohol",
+    "q": "What is another name mentioned for iso-propyl alcohol?",
+    "topic": "Classification of Monohydric Alcohols"
+  },
+  "M10": {
+    "a": "1-propanol",
+    "ans": "c",
+    "b": "2-propanol",
+    "c": "2- Methyl- 2- propanol",
+    "d": "1,2-ethandiol",
+    "q": "What is the common or IUPAC name mentioned for Ter-butyl alcohol?",
+    "topic": "Classification of Monohydric Alcohols"
+  },
+  "M11": {
+    "a": "Polyhydric alcohol",
+    "ans": "a",
+    "b": "Monohydric alcohol",
+    "c": "Primary alcohol",
+    "d": "Tertiary alcohol",
+    "q": "Alcohols containing two or more hydroxyl groups are known as:",
+    "topic": "Classification of Monohydric Alcohols"
+  },
+  "M12": {
+    "a": "Methanol",
+    "ans": "d",
+    "b": "Ethanol",
+    "c": "Ter-butyl alcohol",
+    "d": "Iso-propyl alcohol",
+    "q": "Which of the following is classified as a secondary alcohol?",
+    "topic": "Classification of Monohydric Alcohols"
+  },
+  "M13": {
+    "a": "Primary alcohols",
+    "ans": "b",
+    "b": "Tertiary alcohols",
+    "c": "Secondary alcohols",
+    "d": "Polyhydric alcohols",
+    "q": "An organic compound has its hydroxyl ($\\text{-OH}$) group's carbon atom attached to three alkyl groups. Into which family does this compound fall?",
+    "topic": "Classification of Monohydric Alcohols"
+  },
+  "M14": {
+    "a": "Secondary alcohol",
+    "ans": "c",
+    "b": "Tertiary alcohol",
+    "c": "Primary alcohol",
+    "d": "Dihydric alcohol",
+    "q": "An aliphatic organic compound contains a single $\\text{-OH}$ functional group, where the carbon atom bearing this group is connected to only one alkyl group. How is this alcohol classified?",
+    "topic": "Classification of Monohydric Alcohols"
+  },
+  "M15": {
+    "a": "Polyhydric alcohol",
+    "ans": "a",
+    "b": "Monohydric alcohol",
+    "c": "Primary alcohol",
+    "d": "Tertiary alcohol",
+    "q": "A chemical sample contains two hydroxyl groups in its structure. Based on this feature, how is this alcohol categorized?",
+    "topic": "Classification of Monohydric Alcohols"
+  },
+  "M16": {
+    "a": "Phosphoric acid at $300\\,^{\\circ}\\text{C}$ and $60\\text{-}70\\text{ atm}$ pressure",
+    "ans": "a",
+    "b": "Sulfuric acid at $100\\,^{\\circ}\\text{C}$ and $1\\text{ atm}$ pressure",
+    "c": "Potassium manganate at room temperature",
+    "d": "Sodium hydroxide at $50\\,^{\\circ}\\text{C}$",
+    "q": "Which catalyst and conditions are used in the electrophilic addition of steam to an alkene to form an alcohol?",
+    "topic": "Preparations of Alcohols"
+  },
+  "M17": {
+    "a": "An alkane",
+    "ans": "b",
+    "b": "A diol",
+    "c": "A carboxylic acid",
+    "d": "An ester",
+    "q": "What is produced when an alkene is treated with a cold dilute acidified solution of potassium manganate(VII) (\\(\\text{KMnO}_4\\))?",
+    "topic": "Preparations of Alcohols"
+  },
+  "M18": {
+    "a": "An aldehyde",
+    "ans": "c",
+    "b": "An alkene",
+    "c": "An alcohol",
+    "d": "A carboxylic acid",
+    "q": "What is formed when a haloalkane is heated with an aqueous solution of \\(\\text{NaOH}\\)?",
+    "topic": "Preparations of Alcohols"
+  },
+  "M19": {
+    "a": "\\(\\text{NaCl}\\) or \\(\\text{KCl}\\)",
+    "ans": "d",
+    "b": "\\(\\text{H}_2\\text{SO}_4\\) or \\(\\text{HCl}\\)",
+    "c": "\\(\\text{KMnO}_4\\) or \\(\\text{K}_2\\text{Cr}_2\\text{O}_7\\)",
+    "d": "\\(\\text{NaBH}_4\\) or \\(\\text{LiAlH}_4\\)",
+    "q": "Which of the following reducing agents are used to reduce carbonyl compounds to alcohols?",
+    "topic": "Preparations of Alcohols"
+  },
+  "M20": {
+    "a": "1",
+    "ans": "c",
+    "b": "2",
+    "c": "4",
+    "d": "6",
+    "q": "How many equivalents of nascent hydrogen (\\([\\text{H}]\\)) are consumed in the reduction of a carboxylic acid to an alcohol?",
+    "topic": "Preparations of Alcohols"
+  },
+  "M21": {
+    "a": "Carboxylate salt and an alcohol",
+    "ans": "a",
+    "b": "Carboxylic acid and water",
+    "c": "Alkene and hydrogen gas",
+    "d": "Haloalkane and sodium hydroxide",
+    "q": "What are the products formed during the basic hydrolysis of an ester?",
+    "topic": "Preparations of Alcohols"
+  },
+  "M22": {
+    "a": "With the carbonyl carbon atom",
+    "ans": "b",
+    "b": "With the \\(-\\text{OR}\\) part of the ester",
+    "c": "With the alkyl group of the acid part",
+    "d": "With the hydroxyl oxygen",
+    "q": "During the acid hydrolysis of an ester, where does the hydrogen atom (\\(\\text{H}\\)) from water join?",
+    "topic": "Preparations of Alcohols"
+  },
+  "M23": {
+    "a": "To the \\(-\\text{OR}\\) part of the ester",
+    "ans": "d",
+    "b": "To the hydrogen of the acid",
+    "c": "To the alkyl chain of alcohol",
+    "d": "To the carbonyl carbon atom",
+    "q": "During the acid hydrolysis of an ester, where does the hydroxyl group (\\(-\\text{OH}\\)) from water attach?",
+    "topic": "Preparations of Alcohols"
+  },
+  "M24": {
+    "a": "Ethanol",
+    "ans": "c",
+    "b": "Propanol",
+    "c": "Methanol",
+    "d": "Secondary alcohol",
+    "q": "Which specific alcohol is produced when methanal (\\(\\text{H}-\\text{CHO}\\)) is reduced using \\(\\text{LiAlH}_4\\)?",
+    "topic": "Preparations of Alcohols"
+  },
+  "M25": {
+    "a": "Primary alcohol",
+    "ans": "b",
+    "b": "Secondary alcohol",
+    "c": "Tertiary alcohol",
+    "d": "Dihydric alcohol",
+    "q": "What type of alcohol is formed when a ketone is reduced using reducing agents such as \\(\\text{LiAlH}_4\\)?",
+    "topic": "Preparations of Alcohols"
+  },
+  "M26": {
+    "a": "\\(\\text{Br}^-\\)",
+    "ans": "d",
+    "b": "\\(\\text{H}^+\\)",
+    "c": "\\(\\text{Na}^+\\)",
+    "d": "\\(\\text{OH}^-\\)",
+    "q": "In the substitution reaction of haloalkanes to produce alcohols, what nucleophile attacks the haloalkane (\\(\\text{R}-\\text{Br}\\))?",
+    "topic": "Preparations of Alcohols"
+  },
+  "M27": {
+    "a": "An alkene and water",
+    "ans": "c",
+    "b": "An ester and hydrogen gas",
+    "c": "An alcohol (\\(\\text{R}-\\text{CH}_2-\\text{OH}\\)) and water (\\(\\text{H}_2\\text{O}\\))",
+    "d": "An aldehyde and carbon dioxide",
+    "q": "When a carboxylic acid (\\(\\text{R}-\\text{COOH}\\)) is reduced with \\(4[\\text{H}]\\), what are the organic and inorganic products formed?",
+    "topic": "Preparations of Alcohols"
+  },
+  "M28": {
+    "a": "\\(\\text{CH}_3-\\text{CH}_2-\\text{OH}\\)",
+    "ans": "a",
+    "b": "\\(\\text{CH}_3-\\text{COOH}\\)",
+    "c": "\\(\\text{H}-\\text{CHO}\\)",
+    "d": "\\(\\text{CH}_3-\\text{OCH}_3\\)",
+    "q": "What is the organic product of the reaction between ethene (\\(\\text{CH}_2=\\text{CH}_2\\)) and steam (\\(\\text{H}_2\\text{O}\\)) in the presence of phosphoric acid?",
+    "topic": "Preparations of Alcohols"
+  },
+  "M29": {
+    "a": "Formic acid",
+    "ans": "d",
+    "b": "Propanoic acid",
+    "c": "Butanoic acid",
+    "d": "Acetic acid",
+    "q": "When ethyl acetate is subjected to acid hydrolysis using \\(\\text{H}_3\\text{O}^+\\), what specific organic acid is produced alongside ethanol?",
+    "topic": "Preparations of Alcohols"
+  },
+  "M30": {
+    "a": "Sodium formate",
+    "ans": "b",
+    "b": "Sodium acetate",
+    "c": "Sodium propionate",
+    "d": "Sodium ethoxide",
+    "q": "What sodium salt is formed when ethyl acetate reacts with \\(\\text{NaOH}\\) during basic hydrolysis?",
+    "topic": "Preparations of Alcohols"
+  },
+  "M31": {
+  "a": "$\\text{NaBH}_4$",
+  "ans": "a",
+  "b": "$\\text{KMnO}_4$",
+  "c": "$\\text{H}_2\\text{SO}_4$",
+  "d": "$\\text{NaOH}$",
+  "q": "Aside from $\\text{LiAlH}_4$, which other reducing agent is used to reduce carboxylic acids and esters to alcohols?",
+  "topic": "Preparations of Alcohols"
+},
+  "M32": {
+    "a": "$100\\,^{\\circ}\\text{C}$ and $1\\text{ atm}$",
+    "ans": "c",
+    "b": "Room temperature and $10\\text{ atm}$",
+    "c": "$300\\,^{\\circ}\\text{C}$ and $60\\text{-}70\\text{ atm}$",
+    "d": "$500\\,^{\\circ}\\text{C}$ and $100\\text{ atm}$",
+    "q": "An industrial chemist wants to produce an alcohol directly from ethene gas via electrophilic addition. To achieve this, what exact combination of temperature and pressure should be maintained with phosphoric acid?",
+    "topic": "Preparations of Alcohols"
+  },
+  "M33": {
+    "a": "1,2 ethanediol",
+    "ans": "a",
+    "b": "1,2 propanediol",
+    "c": "Ethanol",
+    "d": "Ethanal",
+    "q": "In a laboratory synthesis, a researcher treats an alkene with a cold dilute acidified solution of potassium manganate(VII) (\\(\\text{KMnO}_4\\)). If ethene is used, what specific diol compound is formed?",
+    "topic": "Preparations of Alcohols"
+  },
+  "M34": {
+    "a": "Aqueous solution of \\(\\text{NaOH}\\)",
+    "ans": "a",
+    "b": "Dilute sulfuric acid",
+    "c": "Potassium permanganate solution",
+    "d": "Phosphoric acid catalyst",
+    "q": "A student is synthesizing an alcohol by heating a bromoalkane (\\(\\text{R}-\\text{Br}\\)) in the laboratory. Which reagent should be added to the reaction mixture to successfully substitute the bromine atom with a hydroxyl group?",
+    "topic": "Preparations of Alcohols"
+  },
+  "M35": {
+    "a": "Methanol",
+    "ans": "c",
+    "b": "Propanol",
+    "c": "Ethanol",
+    "d": "Butanol",
+    "q": "An ester, ethyl acetate (\\(\\text{CH}_3-\\text{COO}-\\text{C}_2\\text{H}_5\\)), is heated with dilute acid (\\(\\text{H}_3\\text{O}^+\\)). Based on the hydrolysis mechanism, what alcohol is inevitably released as one of the products?",
+    "topic": "Preparations of Alcohols"
+  },
+  "M36": {
+    "a": "$-\\text{OH}$ group",
+    "ans": "a",
+    "b": "$-\\text{COOH}$ group",
+    "c": "$-\\text{CHO}$ group",
+    "d": "$-\\text{CO}$ group",
+    "q": "Which functional group is present in both alcohols and water?",
+    "topic": "Acidity of Alcohols"
+  },
+  "M37": {
+    "a": "Alkoxide",
+    "ans": "a",
+    "b": "Carboxylic acid",
+    "c": "Ester",
+    "d": "Aldehyde",
+    "q": "What is formed when alcohols react with active metals like sodium or potassium?",
+    "topic": "Acidity of Alcohols"
+  },
+  "M38": {
+    "a": "Methanol and ethanol",
+    "ans": "a",
+    "b": "Propanol and butanol",
+    "c": "Ethane and methane",
+    "d": "Formaldehyde and acetone",
+    "q": "Which of the following substances are used as alternative fuels or fuel additives?",
+    "topic": "Acidity of Alcohols"
+  },
+  "M39": {
+    "a": "The electron releasing nature of alkyl group decreases the polarity of $-\\text{OH}$ bond",
+    "ans": "a",
+    "b": "Alcohols contain no hydrogen atoms",
+    "c": "Water lacks an $-\\text{OH}$ group",
+    "d": "Alkyl groups increase the ionic strength of water",
+    "q": "Why are alcohols weaker acids than water?",
+    "topic": "Acidity of Alcohols"
+  },
+  "M40": {
+    "a": "Less polar",
+    "ans": "a",
+    "b": "More polar",
+    "c": "Equally polar",
+    "d": "Non-polar",
+    "q": "How does the polarity of the $-\\text{OH}$ group in alcohols compare with the $-\\text{OH}$ group in water?",
+    "topic": "Acidity of Alcohols"
+  },
+  "M41": {
+    "a": "Hydrogen",
+    "ans": "a",
+    "b": "Oxygen",
+    "c": "Carbon dioxide",
+    "d": "Water vapor",
+    "q": "What is released when alcohols react with metals such as sodium or potassium?",
+    "topic": "Acidity of Alcohols"
+  },
+  "M42": {
+    "a": "To reduce air pollution and dependence on fossil fuels",
+    "ans": "a",
+    "b": "To increase engine operating temperature",
+    "c": "To maximize carbon emissions",
+    "d": "To eliminate the need for oxygen",
+    "q": "What is the primary objective of blending ethanol with gasoline?",
+    "topic": "Acidity of Alcohols"
+  },
+  "M43": {
+    "a": "Electron releasing nature",
+    "ans": "a",
+    "b": "Electron withdrawing nature",
+    "c": "High electronegativity",
+    "d": "Inert chemical nature",
+    "q": "Which characteristic of the alkyl group is responsible for decreasing the polarity of the $-\\text{OH}$ bond in alcohols?",
+    "topic": "Acidity of Alcohols"
+  },
+  "M44": {
+    "a": "$\\text{H}_2$",
+    "ans": "a",
+    "b": "$\\text{O}_2$",
+    "c": "$\\text{Cl}_2$",
+    "d": "$\\text{CO}_2$",
+    "q": "When an alcohol is treated with a reactive metal like sodium ($\\text{Na}$), which gaseous product is liberated along with an alkoxide?",
+    "topic": "Acidity of Alcohols"
+  },
+  "M45": {
+    "a": "Ethanol",
+    "ans": "a",
+    "b": "Benzene",
+    "c": "Acetone",
+    "d": "Ether",
+    "q": "An organization is implementing a program to decrease reliance on petroleum by mixing an alcohol with gasoline for automotive use. Which specific substance is commonly blended with gasoline for this purpose?",
+    "topic": "Acidity of Alcohols"
+  },
+  "M46": {
+    "a": "Carbon dioxide and water",
+    "ans": "a",
+    "b": "Carbon monoxide and hydrogen",
+    "c": "Alkyl halide and water",
+    "d": "Ethene and water",
+    "q": "What are the complete combustion products when alcohols burn in air?",
+    "topic": "Reactions of Alcohols"
+  },
+  "M47": {
+    "a": "$PCl_3$",
+    "ans": "b",
+    "b": "$SOCl_2$",
+    "c": "$KBr$",
+    "d": "$ZnCl_2$",
+    "q": "Which reagent is used in the presence of pyridine to give alkyl chlorides from alcohols?",
+    "topic": "Reactions of Alcohols"
+  },
+  "M48": {
+    "a": "To distinguish primary, secondary, and tertiary alcohols",
+    "ans": "a",
+    "b": "To dehydrate alcohols into alkenes",
+    "c": "To form bromoalkanes",
+    "d": "To produce high octane fuels",
+    "q": "What is the specific purpose of the Lucas Test?",
+    "topic": "Reactions of Alcohols"
+  },
+  "M49": {
+    "a": "Concentrated $H_2SO_4$ at $140^\\circ C$",
+    "ans": "b",
+    "b": "Concentrated $H_2SO_4$ at $180^\\circ C$",
+    "c": "$ZnCl_2$ and $HCl$ at room temperature",
+    "d": "$Al_2O_3$ at room temperature",
+    "q": "Which catalyst and temperature condition is used to dehydrate ethanol into ethene?",
+    "topic": "Reactions of Alcohols"
+  },
+  "M50": {
+    "a": "Potassium bromide ($KBr$)",
+    "ans": "a",
+    "b": "Sodium chloride ($NaCl$)",
+    "c": "Thionyl chloride ($SOCl_2$)",
+    "d": "Phosphorus trichloride ($PCl_3$)",
+    "q": "Which reagent along with concentrated sulphuric acid is heated with an alcohol to form a bromoalkane?",
+    "topic": "Reactions of Alcohols"
+  },
+  "M51": {
+    "a": "Pyridine",
+    "ans": "b",
+    "b": "Concentrated Sulphuric acid or $Al_2O_3$",
+    "c": "$ZnCl_2 / HCl$",
+    "d": "$KBr$",
+    "q": "Which substance is commonly used as a dehydrating agent for alcohols?",
+    "topic": "Reactions of Alcohols"
+  },
+  "M52": {
+    "a": "Alkyl group ($R$)",
+    "ans": "b",
+    "b": "Hydroxyl group ($-OH$)",
+    "c": "Hydrogen atom ($H$)",
+    "d": "Oxygen atom",
+    "q": "In the substitution reaction of alcohol with hydrogen halides, which group of the alcohol is replaced by a halogen atom?",
+    "topic": "Reactions of Alcohols"
+  },
+  "M53": {
+    "a": "They form an oily layer immediately",
+    "ans": "a",
+    "b": "They form an oily layer in 5 to 10 minutes",
+    "c": "They form an oily layer only upon heating",
+    "d": "They do not react under any conditions",
+    "q": "How do tertiary alcohols behave when treated with Lucas reagent?",
+    "topic": "Reactions of Alcohols"
+  },
+  "M54": {
+    "a": "Immediately",
+    "ans": "c",
+    "b": "In 5 to 10 minutes",
+    "c": "On heating",
+    "d": "At sub-zero temperatures",
+    "q": "Under what condition do primary alcohols form an oily layer with Lucas reagent?",
+    "topic": "Reactions of Alcohols"
+  },
+  "M55": {
+    "a": "Ethene",
+    "ans": "b",
+    "b": "Diethyl ether",
+    "c": "Ethyl chloride",
+    "d": "Bromoethane",
+    "q": "What is the main organic product formed when two molecules of ethanol react in the presence of concentrated $H_2SO_4$ at $140^\\circ C$?",
+    "topic": "Reactions of Alcohols"
+  },
+  "M56": {
+    "a": "Primary alcohol",
+    "ans": "b",
+    "b": "Secondary alcohol",
+    "c": "Tertiary alcohol",
+    "d": "Dihydric alcohol",
+    "q": "Which type of alcohol takes 5 to 10 minutes to form an oily layer with Lucas reagent?",
+    "topic": "Reactions of Alcohols"
+  },
+  "M57": {
+    "a": "Because they are completely insoluble in water",
+    "ans": "b",
+    "b": "Because they are highly inflammable and burn completely in air",
+    "c": "Because they react with $SOCl_2$ to give alkyl halides",
+    "d": "Because they form ethers at $140^\\circ C$",
+    "q": "Why are alcohols utilized as high octane fuels for racing cars?",
+    "topic": "Reactions of Alcohols"
+  },
+  "M58": {
+    "a": "$H_2O$",
+    "ans": "a",
+    "b": "$HCl$",
+    "c": "$SO_2$",
+    "d": "$H_3PO_3$",
+    "q": "In the general substitution reaction of alcohol with $HX$, besides the alkyl halide, which molecule is produced?",
+    "topic": "Reactions of Alcohols"
+  },
+  "M59": {
+    "a": "$H_3PO_4$",
+    "ans": "b",
+    "b": "$H_3PO_3$",
+    "c": "$POCl_3$",
+    "d": "$P_2O_5$",
+    "q": "What phosphorus-containing product is formed when phosphorus trichloride ($PCl_3$) reacts with an alcohol?",
+    "topic": "Reactions of Alcohols"
+  },
+  "M60": {
+    "a": "It acts as a solvent",
+    "ans": "b",
+    "b": "It acts along with concentrated hydrochloric acid to form haloalkanes",
+    "c": "It acts as a dehydrating agent at $180^\\circ C$",
+    "d": "It oxidizes alcohols to carboxylic acids",
+    "q": "What role does anhydrous zinc chloride ($ZnCl_2$) play in the Lucas test?",
+    "topic": "Reactions of Alcohols"
+  },
+  "M61": {
+    "a": "The presence of potassium bromide",
+    "ans": "b",
+    "b": "Different sets of reaction conditions such as temperature",
+    "c": "The reaction with thionyl chloride",
+    "d": "The immediate formation of an oily layer",
+    "q": "What determines whether an alkene or an ether is formed during the dehydration of an alcohol?",
+    "topic": "Reactions of Alcohols"
+  },
+  "M62": {
+    "a": "Primary alcohol",
+    "ans": "c",
+    "b": "Secondary alcohol",
+    "c": "Tertiary alcohol",
+    "d": "Dihydric alcohol",
+    "q": "A student mixes an unknown alcohol sample with Lucas reagent at room temperature and observes the formation of an oily layer immediately. Which type of alcohol is present?",
+    "topic": "Reactions of Alcohols"
+  },
+  "M63": {
+    "a": "Methane",
+    "ans": "b",
+    "b": "Ethene",
+    "c": "Ethane",
+    "d": "Propene",
+    "q": "In a laboratory experiment, a chemist heats ethanol with concentrated sulphuric acid at $180^\\circ C$. Which specific unsaturated hydrocarbon is produced?",
+    "topic": "Reactions of Alcohols"
+  },
+  "M64": {
+    "a": "$KHSO_4$ and $H_2O$",
+    "ans": "a",
+    "b": "$KCl$ and $SO_2$",
+    "c": "$H_3PO_3$ and $HCl$",
+    "d": "$CO_2$ and $H_2O$",
+    "q": "An organic chemist converts an alcohol into a bromoalkane using potassium bromide and concentrated sulphuric acid. What are the inorganic byproducts formed?",
+    "topic": "Reactions of Alcohols"
+  },
+  "M65": {
+    "a": "Water",
+    "ans": "b",
+    "b": "Pyridine",
+    "c": "Concentrated $H_2SO_4$",
+    "d": "Ethanol",
+    "q": "A researcher needs to prepare an alkyl chloride from an alcohol using thionyl chloride ($SOCl_2$). Which substance must be used as a solvent in this reaction?",
+    "topic": "Reactions of Alcohols"
+  },
+  "M66": {
+    "a": "Concentrated sulfuric acid or $\\text{Al}_2\\text{O}_3$",
+    "ans": "a",
+    "b": "Sodium hydroxide",
+    "c": "Potassium permanganate",
+    "d": "Iodine",
+    "q": "What is the catalyst used when alcohols react with carboxylic acids to form esters?",
+    "topic": "Reactions of Alcohols"
+  },
+  "M67": {
+    "a": "Green to orange",
+    "ans": "b",
+    "b": "Orange to green",
+    "c": "Yellow to colourless",
+    "d": "Colourless to pink",
+    "q": "During the oxidation of alcohols, dichromate ions $\\text{Cr}_2\\text{O}_7^{2-}$ change in colour from:",
+    "topic": "Reactions of Alcohols"
+  },
+  "M68": {
+    "a": "$\\text{KMnO}_4$ and $\\text{NaOH}$",
+    "ans": "b",
+    "b": "$\\text{K}_2\\text{Cr}_2\\text{O}_7$ and sulfuric acid",
+    "c": "Iodine and sodium hydroxide",
+    "d": "$\\text{Al}_2\\text{O}_3$ and water",
+    "q": "Nascent oxygen used in the oxidation of alcohols is produced by the action of:",
+    "topic": "Reactions of Alcohols"
+  },
+  "M69": {
+    "a": "A ketone",
+    "ans": "c",
+    "b": "An alkene",
+    "c": "An aldehyde",
+    "d": "An ester",
+    "q": "What is the initial product formed when a primary alcohol is oxidized?",
+    "topic": "Reactions of Alcohols"
+  },
+  "M70": {
+    "a": "A carboxylic acid",
+    "ans": "a",
+    "b": "A ketone",
+    "c": "An ether",
+    "d": "An alkyl halide",
+    "q": "An aldehyde obtained from the oxidation of a primary alcohol is further oxidized into:",
+    "topic": "Reactions of Alcohols"
+  },
+  "M71": {
+    "a": "Primary alcohol",
+    "ans": "c",
+    "b": "Secondary alcohol",
+    "c": "Tertiary alcohol",
+    "d": "Methanol",
+    "q": "Which type of alcohol is NOT oxidized by acidified $\\text{KMnO}_4$?",
+    "topic": "Reactions of Alcohols"
+  },
+  "M72": {
+    "a": "Aldehyde and hydrogen gas",
+    "ans": "b",
+    "b": "Ester and water",
+    "c": "Ketone and carbon dioxide",
+    "d": "Alkene and water",
+    "q": "What are the products formed when alcohols react with carboxylic acids?",
+    "topic": "Reactions of Alcohols"
+  },
+  "M73": {
+    "a": "Because a gas is evolved rapidly",
+    "ans": "b",
+    "b": "Because of the colour change of chromium ions",
+    "c": "Because a pale yellow precipitate is formed",
+    "d": "Because the solution becomes strongly acidic",
+    "q": "Why can the oxidation-reduction reaction of alcohols using potassium dichromate be easily detected?",
+    "topic": "Reactions of Alcohols"
+  },
+  "M74": {
+    "a": "Aldehyde",
+    "ans": "c",
+    "b": "Carboxylic acid",
+    "c": "Ketone",
+    "d": "Ester",
+    "q": "When a secondary alcohol is oxidized under similar conditions, it yields:",
+    "topic": "Reactions of Alcohols"
+  },
+  "M75": {
+    "a": "It is oxidized to a ketone",
+    "ans": "b",
+    "b": "It is dehydrated to form an alkene",
+    "c": "It is converted into a carboxylic acid",
+    "d": "It forms an ester",
+    "q": "What happens when a tertiary alcohol is heated with a mixture of $\\text{K}_2\\text{Cr}_2\\text{O}_7$ and $\\text{H}_2\\text{SO}_4$?",
+    "topic": "Reactions of Alcohols"
+  },
+  "M76": {
+    "a": "$\\text{H}_3\\text{C}-\\text{CH}(\\text{OH})-$ group",
+    "ans": "a",
+    "b": "$-\\text{COOH}$ group",
+    "c": "$-\\text{CHO}$ group",
+    "d": "$-\\text{CH}_2-\\text{OH}$ group",
+    "q": "Which characteristic group is required in secondary alcohols to give a positive iodoform test?",
+    "topic": "Reactions of Alcohols"
+  },
+  "M77": {
+    "a": "Green precipitate of chromium ions",
+    "ans": "b",
+    "b": "Pale yellow precipitate of tri-iodomethane",
+    "c": "Orange crystals of dichromate",
+    "d": "Effervescence of carbon dioxide gas",
+    "q": "What is observed when alcohols undergoing the iodoform reaction are treated with excess iodine and sodium hydroxide?",
+    "topic": "Reactions of Alcohols"
+  },
+  "M78": {
+    "a": "Methanol",
+    "ans": "c",
+    "b": "Propanol",
+    "c": "Ethanol",
+    "d": "Butanol",
+    "q": "Among primary alcohols, which specific compound gives a positive iodoform test?",
+    "topic": "Reactions of Alcohols"
+  },
+  "M79": {
+    "a": "Tri-iodomethane and a carboxylate",
+    "ans": "a",
+    "b": "Acetaldehyde and water",
+    "c": "Ketone and sodium iodide",
+    "d": "Alkene and sulfur dioxide",
+    "q": "What are the main organic products formed in the iodoform reaction of secondary alcohols?",
+    "topic": "Reactions of Alcohols"
+  },
+  "M80": {
+    "a": "Primary alcohol",
+    "ans": "c",
+    "b": "Secondary alcohol",
+    "c": "Tertiary alcohol",
+    "d": "Both primary and secondary alcohols",
+    "q": "Which class of alcohols does NOT give a positive iodoform test under any condition?",
+    "topic": "Reactions of Alcohols"
+  },
+  "M81": {
+    "a": "Primary alcohol",
+    "ans": "a",
+    "b": "Secondary alcohol",
+    "c": "Tertiary alcohol",
+    "d": "Dihydric alcohol",
+    "q": "An alcohol is oxidized at $50^{\\circ}\\text{C}$ to form an aldehyde, which is further oxidized to a carboxylic acid. The starting reactant was a:",
+    "topic": "Reactions of Alcohols"
+  },
+  "M82": {
+    "a": "Primary alcohol",
+    "ans": "b",
+    "b": "Secondary alcohol",
+    "c": "Tertiary alcohol",
+    "d": "Carboxylic acid",
+    "q": "An organic compound is oxidized by heating with $\\text{K}_2\\text{Cr}_2\\text{O}_7$ and $\\text{H}_2\\text{SO}_4$ at $50^{\\circ}\\text{C}$ to yield a ketone that is not further oxidized. The reactant was a:",
+    "topic": "Reactions of Alcohols"
+  },
+  "M83": {
+    "a": "An alkene",
+    "ans": "a",
+    "b": "An aldehyde",
+    "c": "A ketone",
+    "d": "An ester",
+    "q": "When 2-methyl-2-butanol is heated with a mixture of $\\text{K}_2\\text{Cr}_2\\text{O}_7$ and $\\text{H}_2\\text{SO}_4$, it undergoes dehydration to produce:",
+    "topic": "Reactions of Alcohols"
+  },
+  "M84": {
+    "a": "Methanol",
+    "ans": "b",
+    "b": "Ethanol",
+    "c": "Propan-2-ol",
+    "d": "Tertiary butanol",
+    "q": "When treated with excess iodine and sodium hydroxide, a primary alcohol reacts to form iodoform and sodium formate ($\\text{HCOONa}$). Which alcohol is this?",
+    "topic": "Reactions of Alcohols"
+  },
+  "M85": {
+    "a": "$\\text{NaI}$ and $\\text{H}_2\\text{O}$",
+    "ans": "a",
+    "b": "$\\text{K}_2\\text{SO}_4$ and $\\text{Cr}_2(\\text{SO}_4)_3$",
+    "c": "$\\text{CO}_2$ and $\\text{HCl}$",
+    "d": "$\\text{NaCl}$ and $\\text{H}_2$",
+    "q": "When a secondary alcohol of formula $\\text{R}-\\text{CH}(\\text{OH})-\\text{CH}_3$ is treated with $4\\text{I}_2$ and $6\\text{NaOH}$ under heating, what inorganic by-products are formed along with $\\text{CHI}_3$ and $\\text{RCOONa}$?",
+    "topic": "Reactions of Alcohols"
+  },
+  "M86": {
+    "a": "Hydrogenation",
+    "ans": "c",
+    "b": "Hydration",
+    "c": "Oxidation",
+    "d": "Fermentation",
+    "q": "Ethanol ($\\text{C}_2\\text{H}_5\\text{OH}$) can be converted into ethanoic acid ($\\text{CH}_3\\text{COOH}$) by:",
+    "topic": "Exercise"
+  },
+  "M87": {
+    "a": "Hydrogenation",
+    "ans": "c",
+    "b": "Hydration",
+    "c": "Oxidation",
+    "d": "Reduction",
+    "q": "Ethanol can be converted into ethanoic acid by:",
+    "topic": "Exercise"
+  },
+  "M88": {
+    "a": "Primary",
+    "ans": "c",
+    "b": "Secondary",
+    "c": "Tertiary",
+    "d": "All of these",
+    "q": "Which alcohol reacts fastest with $\\text{HCl}/\\text{ZnCl}_2$ on heating?",
+    "topic": "Exercise"
+  },
+  "M89": {
+    "a": "Ethanol",
+    "ans": "b",
+    "b": "Methanol",
+    "c": "2-Propanol",
+    "d": "Ethanal",
+    "q": "Which of the following does not undergo iodoform reaction?",
+    "topic": "Exercise"
+  }
+    }
+              },
+              "Chapter 19: Carbonyl Compounds": {
+    "Questions": {
+  "M1": {
+    "a": "$C_n H_{2n+2} O$",
+    "ans": "b",
+    "b": "$C_n H_{2n} O$",
+    "c": "$C_n H_{2n-2} O$",
+    "d": "$C_n H_{2n} O_2$",
+    "q": "What is the general formula for the homologous series of aldehydes?",
+    "topic": "Organic Compounds Containing Carbonyl Functional Group"
+  },
+  "M2": {
+    "a": "One carbon atom",
+    "ans": "b",
+    "b": "Two carbon atoms",
+    "c": "Three carbon atoms",
+    "d": "Four carbon atoms",
+    "q": "In ketones, the carbon atom of the carbonyl group is bonded to how many carbon atoms?",
+    "topic": "Organic Compounds Containing Carbonyl Functional Group"
+  },
+  "M3": {
+    "a": "Ethanal",
+    "ans": "c",
+    "b": "Propanone",
+    "c": "Methanal",
+    "d": "Butanone",
+    "q": "What is the IUPAC name of formaldehyde represented by the formula $H-CHO$?",
+    "topic": "Organic Compounds Containing Carbonyl Functional Group"
+  },
+  "M4": {
+    "a": "The carbonyl carbon is attached to two alkyl groups.",
+    "ans": "b",
+    "b": "The carbonyl carbon is directly attached to at least one hydrogen atom.",
+    "c": "The carbonyl carbon is bonded solely to oxygen atoms.",
+    "d": "The carbonyl carbon has no attached hydrogen atoms.",
+    "q": "Which structural feature distinguishes an aldehyde from a ketone?",
+    "topic": "Organic Compounds Containing Carbonyl Functional Group"
+  },
+  "M5": {
+    "a": "Formaldehyde",
+    "ans": "b",
+    "b": "Acetaldehyde",
+    "c": "Acetone",
+    "d": "Methyl ethyl ketone",
+    "q": "What is the common name of the aldehyde represented by the formula $CH_3-CHO$?",
+    "topic": "Organic Compounds Containing Carbonyl Functional Group"
+  },
+  "M6": {
+    "a": "$R-C(=O)-H$",
+    "ans": "b",
+    "b": "$R-C(=O)-R$",
+    "c": "$H-CHO$",
+    "d": "$CH_3-CHO$",
+    "q": "Which of the following represents the general structural formula for a ketone?",
+    "topic": "Organic Compounds Containing Carbonyl Functional Group"
+  },
+  "M7": {
+    "a": "$C_n H_{2n+1} O$",
+    "ans": "b",
+    "b": "$C_n H_{2n} O$",
+    "c": "$C_n H_{2n-2} O$",
+    "d": "$C_n H_{2n+2} O$",
+    "q": "What is the general formula for the homologous series of ketones?",
+    "topic": "Organic Compounds Containing Carbonyl Functional Group"
+  },
+  "M8": {
+    "a": "Acetone",
+    "ans": "c",
+    "b": "Formaldehyde",
+    "c": "Methyl ethyl ketone",
+    "d": "Acetaldehyde",
+    "q": "What is the alternative common name given for butanone?",
+    "topic": "Organic Compounds Containing Carbonyl Functional Group"
+  },
+  "M9": {
+    "a": "Ketone",
+    "ans": "b",
+    "b": "Aldehyde",
+    "c": "Ketonic group",
+    "d": "Alkane",
+    "q": "An organic compound contains a carbonyl carbon directly attached to at least one hydrogen atom and conforms to the general formula $C_n H_{2n} O$. To which class of compounds does it belong?",
+    "topic": "Organic Compounds Containing Carbonyl Functional Group"
+  },
+  "M10": {
+    "a": "Propanone",
+    "ans": "b",
+    "b": "Butanone",
+    "c": "Methanal",
+    "d": "Ethanal",
+    "q": "A carbonyl compound has its carbonyl carbon bonded to two carbon atoms with the structural arrangement $CH_3-C(=O)-C_2 H_5$. What is the IUPAC name of this compound?",
+    "topic": "Organic Compounds Containing Carbonyl Functional Group"
+  },
+  "M11": {
+    "a": "Carboxylic acid",
+    "ans": "c",
+    "b": "Ketone",
+    "c": "Aldehyde",
+    "d": "Ester",
+    "q": "What is the initial product formed when a primary alcohol is oxidized?",
+    "topic": "Preparation of Aldehyde and Ketones"
+  },
+  "M12": {
+    "a": "Orange to green",
+    "ans": "a",
+    "b": "Blue to colorless",
+    "c": "Pink to colorless",
+    "d": "Yellow to red",
+    "q": "Which color change is observed during the characteristic reaction of alcohols with acidified $K_2Cr_2O_7$?",
+    "topic": "Preparation of Aldehyde and Ketones"
+  },
+  "M13": {
+    "a": "Acetaldehyde",
+    "ans": "b",
+    "b": "Vanillin",
+    "c": "Acetone",
+    "d": "Acetic acid",
+    "q": "Which compound imparts the characteristic flavor of vanilla in perfumes and fragrances?",
+    "topic": "Preparation of Aldehyde and Ketones"
+  },
+  "M14": {
+    "a": "To slow down the reaction rate",
+    "ans": "b",
+    "b": "To help in the distillation of aldehyde as soon as it is formed",
+    "c": "To completely prevent the formation of aldehydes",
+    "d": "To convert secondary alcohol directly into carboxylic acid",
+    "q": "Why is the reaction temperature kept a little higher than $50^\\circ C$ during the oxidation of primary alcohols?",
+    "topic": "Preparation of Aldehyde and Ketones"
+  },
+  "M15": {
+    "a": "Aldehyde and water",
+    "ans": "b",
+    "b": "Ketone and water",
+    "c": "Carboxylic acid and water",
+    "d": "Ketone and hydrogen gas",
+    "q": "What products are formed when a secondary alcohol is oxidized with acidified $K_2Cr_2O_7$?",
+    "topic": "Preparation of Aldehyde and Ketones"
+  },
+  "M16": {
+    "a": "Acidified $KMnO_4$ or acidified $K_2Cr_2O_7$",
+    "ans": "a",
+    "b": "Sodium hydroxide and water",
+    "c": "Concentrated $H_2SO_4$ only",
+    "d": "Hydrogen gas and nickel catalyst",
+    "q": "Which reagents are typically used for the easy oxidation of alcohols to give carbonyl compounds?",
+    "topic": "Preparation of Aldehyde and Ketones"
+  },
+  "M17": {
+    "a": "By increasing the pressure",
+    "ans": "c",
+    "b": "By lowering the concentration of alcohol",
+    "c": "By controlling the temperature",
+    "d": "By removing water from the mixture",
+    "q": "How can the further oxidation of an aldehyde to a carboxylic acid be avoided?",
+    "topic": "Preparation of Aldehyde and Ketones"
+  },
+  "M18": {
+    "a": "The boiling point of aldehyde is lower than alcohol",
+    "ans": "a",
+    "b": "The boiling point of aldehyde is higher than alcohol",
+    "c": "Aldehydes are insoluble in water",
+    "d": "Alcohols do not vaporize at $50^\\circ C$",
+    "q": "Which physical property assists in the distillation of aldehydes during the oxidation of primary alcohols?",
+    "topic": "Preparation of Aldehyde and Ketones"
+  },
+  "M19": {
+    "a": "Acetic acid ($CH_3COOH$)",
+    "ans": "b",
+    "b": "Acetaldehyde ($CH_3CHO$)",
+    "c": "Acetone ($CH_3COCH_3$)",
+    "d": "Formaldehyde ($HCHO$)",
+    "q": "During an experiment, a student oxidizes $CH_3CH_2OH$ using an acidic oxidizing agent at $50^\\circ C$ and immediately distills the product to prevent its further oxidation into an acid. What is the main product collected?",
+    "topic": "Preparation of Aldehyde and Ketones"
+  },
+  "M20": {
+    "a": "Acetaldehyde",
+    "ans": "b",
+    "b": "Acetone",
+    "c": "Acetic acid",
+    "d": "Formic acid",
+    "q": "A chemist carries out the oxidation of 2-propanol using $K_2Cr_2O_7$ and $H_2SO_4$ at $50^\\circ C$. Which product will be formed in this reaction?",
+    "topic": "Preparation of Aldehyde and Ketones"
+  },
+  "M21": {
+  "a": "Three",
+  "b": "Four",
+  "c": "Two",
+  "d": "One",
+  "ans": "c",
+  "q": "How many types of nucleophilic addition reactions of carbonyl compounds are there?",
+  "topic": "Reactions of Aldehyde and Ketones"
+},
+  "M22": {
+    "a": "A weak nucleophilic reagent",
+    "b": "A strong nucleophilic reagent",
+    "c": "An electrophilic reagent",
+    "d": "A neutral reagent",
+    "ans": "b",
+    "q": "A base-catalysed nucleophilic addition reaction takes place with which type of reagent?",
+    "topic": "Reactions of Aldehyde and Ketones"
+  },
+  "M23": {
+    "a": "Carboxylic acids",
+    "b": "Alcohols",
+    "c": "Cyanohydrins",
+    "d": "Epoxides",
+    "ans": "c",
+    "q": "What is formed when hydrogen cyanide adds to aldehydes and ketones?",
+    "topic": "Reactions of Aldehyde and Ketones"
+  },
+  "M24": {
+    "a": "$HCl$",
+    "b": "$H_2SO_4$",
+    "c": "$HNO_3$",
+    "d": "$CH_3COOH$",
+    "ans": "a",
+    "q": "The acid $HCN$ is formed from the reaction of sodium cyanide and which acid?",
+    "topic": "Reactions of Aldehyde and Ketones"
+  },
+  "M25": {
+    "a": "Chloride ions",
+    "b": "Hydronium ions",
+    "c": "Hydroxide ions",
+    "d": "Cyanide ions",
+    "ans": "d",
+    "q": "In the mechanism of hydrogen cyanide addition, the base ($OH^-$) generates which of the following ions to act as a nucleophile?",
+    "topic": "Reactions of Aldehyde and Ketones"
+  },
+  "M26": {
+    "a": "The attack of a nucleophile on the electrophilic carbon of the carbonyl group",
+    "b": "The attack of an electrophile on the oxygen atom of the carbonyl group",
+    "c": "The elimination of water from the carbonyl compound",
+    "d": "The reduction of the carbonyl oxygen",
+    "ans": "a",
+    "q": "What initiates the nucleophilic addition reaction in carbonyl compounds?",
+    "topic": "Reactions of Aldehyde and Ketones"
+  },
+  "M27": {
+    "a": "Acetaldehyde cyanohydrin",
+    "b": "Formaldehyde cyanohydrin",
+    "c": "Acetone cyanohydrin",
+    "d": "Cyanomethanoic acid",
+    "ans": "b",
+    "q": "What is the specific product formed when formaldehyde reacts with $HCN$ in the presence of $NaCN/HCl$?",
+    "topic": "Reactions of Aldehyde and Ketones"
+  },
+  "M28": {
+    "a": "It removes a carbon atom from the starting material",
+    "b": "It yields an alkene without any oxygen atoms",
+    "c": "It synthesizes a hydroxyl acid containing one carbon atom more than the starting aldehyde or ketone",
+    "d": "It produces an alkane with equal carbon atoms",
+    "ans": "c",
+    "q": "Why is the addition of hydrogen cyanide to aldehydes and ketones particularly useful in organic synthesis?",
+    "topic": "Reactions of Aldehyde and Ketones"
+  },
+  "M29": {
+    "a": "Nucleophilic center",
+    "b": "Electrophilic carbon",
+    "c": "Reducing agent",
+    "d": "Leaving group",
+    "ans": "b",
+    "q": "In the general mechanism step $Nu^- + C=O \rightleftharpoons Nu-C-O^-$, what role does the carbon atom of the carbonyl group play?",
+    "topic": "Reactions of Aldehyde and Ketones"
+  },
+  "M30": {
+    "a": "$NaOH$ and $Cl_2$",
+    "b": "$NaCl$ and $H_2O$",
+    "c": "$HCN$ and $NaCl$",
+    "d": "$Na_2O$ and $HCl$",
+    "ans": "c",
+    "q": "What are the products of the chemical reaction between sodium cyanide and hydrochloric acid ($NaCN + HCl$)?",
+    "topic": "Reactions of Aldehyde and Ketones"
+  },
+  "M31": {
+    "a": "$Nu-C-OH$ and $OH^-$",
+    "b": "$Nu-C-H$ and $H_2O$",
+    "c": "$Nu-C-Cl$ and $NaOH$",
+    "d": "$Nu-C-CN$ and $HCl$",
+    "ans": "a",
+    "q": "In the final step of the general base-catalysed nucleophilic addition mechanism ($Nu-C-O^- + H-OH \rightleftharpoons$), what species are produced?",
+    "topic": "Reactions of Aldehyde and Ketones"
+  },
+  "M32": {
+    "a": "By the reaction of sodium cyanide with water directly",
+    "b": "By the reaction of the hydroxide ion with hydrogen cyanide",
+    "c": "By the direct dissociation of sodium chloride",
+    "d": "By the oxidation of formaldehyde",
+    "ans": "b",
+    "q": "How are cyanide ions produced before reacting with the carbonyl compound?",
+    "topic": "Reactions of Aldehyde and Ketones"
+  },
+  "M33": {
+    "a": "$NaCN$ and $HCl$",
+    "b": "$NaOH$ and $H_2SO_4$",
+    "c": "$NaCl$ and $HNO_3$",
+    "d": "$H_2O$ and $HCl$",
+    "ans": "a",
+    "q": "A researcher wants to synthesize a hydroxyl acid with one carbon atom more than the starting material starting from acetaldehyde. Which reagent combination should be used?",
+    "topic": "Reactions of Aldehyde and Ketones"
+  },
+  "M34": {
+    "a": "$Nu^-$ (Nucleophile) and $HOH$",
+    "b": "$Nu-C-O^-$ and $H^+$",
+    "c": "$NaCl$ and $H_2O$",
+    "d": "Cyanide ions and sodium hydroxide",
+    "ans": "a",
+    "q": "During a base-catalysed nucleophilic addition reaction, a base ($OH^-$) reacts with a reagent ($H-Nu$). What are the resulting general products of this initial step?",
+    "topic": "Reactions of Aldehyde and Ketones"
+  },
+  "M35": {
+    "a": "Formaldehyde cyanohydrin",
+    "b": "Acetaldehyde cyanohydrin",
+    "c": "Acetone cyanohydrin",
+    "d": "Cyanoacetone alcohol",
+    "ans": "c",
+    "q": "When acetone reacts with hydrogen cyanide under the specified conditions ($NaCN/HCl$), what is the resulting cyanohydrin product?",
+    "topic": "Reactions of Aldehyde and Ketones"
+  },
+  "M36": {
+    "a": "$LiAlH_4$",
+    "ans": "b",
+    "b": "$NaBH_4$",
+    "c": "$H_2 / Pt$",
+    "d": "$Zn / HCl$",
+    "q": "Which of the following reagents acts as a weak reducing agent in the reduction of aldehydes and ketones?",
+    "topic": "Reactions of Aldehyde and Ketones"
+  },
+  "M37": {
+    "a": "White or grey precipitate",
+    "ans": "b",
+    "b": "Yellow or orange precipitate",
+    "c": "Blue or green precipitate",
+    "d": "Deep red or purple precipitate",
+    "q": "What is the color of the precipitate formed when a carbonyl compound reacts with $2,4$-dinitrophenylhydrazine?",
+    "topic": "Reactions of Aldehyde and Ketones"
+  },
+  "M38": {
+    "a": "$BH_4^-$",
+    "ans": "a",
+    "b": "$H^+$",
+    "c": "$OH^-$",
+    "d": "$Na^+$",
+    "q": "Which ion acts as a source of hydride ion ($H^-$) during the reduction of aldehydes and ketones with $NaBH_4$?",
+    "topic": "Reactions of Aldehyde and Ketones"
+  },
+  "M39": {
+    "a": "Chloroform",
+    "ans": "b",
+    "b": "Iodoform",
+    "c": "Bromoform",
+    "d": "Methanal",
+    "q": "What is the common name of the yellow precipitate of tri-iodomethane formed during the haloform test?",
+    "topic": "Reactions of Aldehyde and Ketones"
+  },
+  "M40": {
+    "a": "Base",
+    "ans": "b",
+    "b": "Acid",
+    "c": "Salt",
+    "d": "Water",
+    "q": "What catalyst is used in the reaction of aldehydes and ketones with $2,4$-dinitrophenylhydrazine?",
+    "topic": "Reactions of Aldehyde and Ketones"
+  },
+  "M41": {
+    "a": "$-CH_3$",
+    "ans": "c",
+    "b": "$-COOH$",
+    "c": "$-CH(OH)-$",
+    "d": "$-CH_2-$",
+    "q": "In the reduction of aldehydes and ketones using hydrides, what is the carbonyl group ($C=O$) converted into?",
+    "topic": "Reactions of Aldehyde and Ketones"
+  },
+  "M42": {
+    "a": "It decreases the electrophilic character",
+    "ans": "b",
+    "b": "It increases the electrophilic character",
+    "c": "It neutralizes the charge completely",
+    "d": "It converts it into a nucleophile",
+    "q": "How does an acid affect the electrophilic character of the carbonyl carbon in acid-catalysed nucleophilic addition reactions?",
+    "topic": "Reactions of Aldehyde and Ketones"
+  },
+  "M43": {
+    "a": "It contains a $CH_3$ group directly attached to the carbonyl carbon",
+    "ans": "a",
+    "b": "It has a hydrogen atom attached to the carbonyl carbon",
+    "c": "It contains a ring structure",
+    "d": "It has two carbon atoms instead of one",
+    "q": "Why does ethanal give a positive iodoform test while other aldehydes generally do not?",
+    "topic": "Reactions of Aldehyde and Ketones"
+  },
+  "M44": {
+    "a": "Secondary alcohol and primary alcohol",
+    "ans": "b",
+    "b": "Primary alcohol and secondary alcohol",
+    "c": "Primary alcohol and tertiary alcohol",
+    "d": "Carboxylic acid and ester",
+    "q": "What are the final reduction products when methanal and a general ketone are reduced by $LiAlH_4$ respectively?",
+    "topic": "Reactions of Aldehyde and Ketones"
+  },
+  "M45": {
+    "a": "To distinguish ethanal from other aldehydes and methyl ketones from other ketones",
+    "ans": "a",
+    "b": "To convert ketones into carboxylic acids",
+    "c": "To oxidize primary alcohols into aldehydes",
+    "d": "To measure the molecular weight of carbonyl compounds",
+    "q": "What is the primary purpose of the haloform reaction in aldehydes and ketones?",
+    "topic": "Reactions of Aldehyde and Ketones"
+  },
+  "M46": {
+    "a": "$NaBH_4$",
+    "ans": "b",
+    "b": "$LiAlH_4$",
+    "c": "$BH_4^-$",
+    "d": "$CH_3OH$",
+    "q": "Which chemical species acts as a strong reducing agent among the hydride reducing agents mentioned?",
+    "topic": "Reactions of Aldehyde and Ketones"
+  },
+  "M47": {
+    "a": "The attack becomes difficult",
+    "ans": "b",
+    "b": "The attack becomes easy",
+    "c": "The nucleophile is destroyed",
+    "d": "The reaction stops completely",
+    "q": "What happens to the attack of a weaker nucleophile on the carbonyl carbon when an acid catalyst is present?",
+    "topic": "Reactions of Aldehyde and Ketones"
+  },
+  "M48": {
+    "a": "Ethyl group",
+    "ans": "b",
+    "b": "$CH_3-$ group directly attached to the carbonyl carbon",
+    "c": "Hydroxyl group",
+    "d": "Carboxyl group",
+    "q": "Which group must be present in a ketone for it to undergo the iodoform reaction?",
+    "topic": "Reactions of Aldehyde and Ketones"
+  },
+  "M49": {
+    "a": "Iodoform test",
+    "ans": "b",
+    "b": "Reaction with $2,4$-dinitrophenylhydrazine",
+    "c": "Reduction with $NaBH_4$",
+    "d": "Reaction with sodium hydroxide",
+    "q": "Which identifying test is used to confirm the presence of aldehydes and ketones by forming a yellow or orange precipitate?",
+    "topic": "Reactions of Aldehyde and Ketones"
+  },
+  "M50": {
+    "a": "1-Propanol",
+    "ans": "b",
+    "b": "2-Propanol",
+    "c": "Propanal",
+    "d": "Propanoic acid",
+    "q": "In the reduction of propanone with $NaBH_4$, what is the organic product formed?",
+    "topic": "Reactions of Aldehyde and Ketones"
+  },
+  "M51": {
+    "a": "Methanal",
+    "ans": "b",
+    "b": "Ethanal",
+    "c": "Propanal",
+    "d": "Butanal",
+    "q": "Which of the following aldehydes is specifically mentioned to give a positive iodoform test?",
+    "topic": "Reactions of Aldehyde and Ketones"
+  },
+  "M52": {
+    "a": "$-CH_2-OH$ group",
+    "ans": "b",
+    "b": "$CH_3-CO-$ group",
+    "c": "$-COOH$ group",
+    "d": "$-CHO$ group only without any methyl group",
+    "q": "A student adds iodine solution and sodium hydroxide solution to an unknown carbonyl compound and warms the mixture. A very pale yellow precipitate of tri-iodomethane appears. What functional group can be confirmed to be present in the compound?",
+    "topic": "Reactions of Aldehyde and Ketones"
+  },
+  "M53": {
+    "a": "Sodium methanoate and water",
+    "ans": "b",
+    "b": "Sodium ethanoate and water",
+    "c": "Sodium propanoate and hydrogen gas",
+    "d": "Methanoic acid and sodium hydroxide",
+    "q": "In a laboratory experiment, a chemist treats propanone with $3I_2$ and $4NaOH$ and warms the mixture. What are the organic products formed in this reaction along with iodoform and sodium iodide?",
+    "topic": "Reactions of Aldehyde and Ketones"
+  },
+  "M54": {
+    "a": "$LiAlH_4$ only",
+    "ans": "b",
+    "b": "$NaBH_4$",
+    "c": "$3I_2$ and $4NaOH$",
+    "d": "$2,4-DNPH$",
+    "q": "A researcher wants to convert ethanal into ethanol using a hydride reducing agent. According to the reactions of aldehydes, which reagent can be used for this transformation?",
+    "topic": "Reactions of Aldehyde and Ketones"
+  },
+  "M55": {
+    "a": "Formation of a gas bubble",
+    "ans": "b",
+    "b": "Formation of a yellow or orange precipitate",
+    "c": "Discoloration of the solution to colorless",
+    "d": "Formation of a pale yellow precipitate of tri-iodomethane",
+    "q": "An organic chemist is analyzing an unknown compound and wants to use $2,4$-dinitrophenylhydrazine in the presence of an acid catalyst. What observation would confirm the presence of an aldehyde or ketone?",
+    "topic": "Reactions of Aldehyde and Ketones"
+  },
+  "M56": {
+    "a": "Cyanohydrin",
+    "ans": "a",
+    "b": "Imine",
+    "c": "Alkoxide",
+    "d": "Carboxylic acid",
+    "q": "What type of product is formed when a cyanide ion adds to aldehydes or ketones?",
+    "topic": "Reactions of Aldehyde and Ketones"
+  },
+  "M57": {
+    "a": "$NaCl$ with $H_2SO_4$",
+    "ans": "b",
+    "b": "$NaCN$ or $KCN$ with $HCl$",
+    "c": "$KMnO_4$ with $HNO_3$",
+    "d": "$K_2Cr_2O_7$ with $HCl$",
+    "q": "Which reagents are usually used to carry out the reaction of hydrogen cyanide with aldehydes or ketones?",
+    "topic": "Reactions of Aldehyde and Ketones"
+  },
+  "M58": {
+    "a": "Strong acid and non-toxic",
+    "ans": "b",
+    "b": "Fairly weak acid, but very toxic",
+    "c": "Strong acid and very toxic",
+    "d": "Fairly weak acid and non-toxic",
+    "q": "How are the acid strength and toxicity of $HCN$ described?",
+    "topic": "Reactions of Aldehyde and Ketones"
+  },
+  "M59": {
+    "a": "Cyanohydrin",
+    "ans": "b",
+    "b": "Imine",
+    "c": "Alkoxide",
+    "d": "Carboxylic acid",
+    "q": "The addition of a primary amine to aldehydes or ketones yields which of the following?",
+    "topic": "Reactions of Aldehyde and Ketones"
+  },
+  "M60": {
+    "a": "$K_2Cr_2O_7/H_2SO_4$, $KMnO_4/H_2SO_4$, and dilute nitric acid",
+    "ans": "a",
+    "b": "$NaCl$ and $HCl$",
+    "c": "$NaCN$ and $KCN$",
+    "d": "$HCN$ and primary amines",
+    "q": "Which of the following are strong oxidizing agents that can oxidize aldehydes?",
+    "topic": "Reactions of Aldehyde and Ketones"
+  },
+  "M61": {
+    "a": "Dilute nitric acid",
+    "ans": "b",
+    "b": "Conc. $HNO_3$",
+    "c": "$HCl$",
+    "d": "$HCN$",
+    "q": "In addition to $K_2Cr_2O_7/H_2SO_4$ and $KMnO_4/H_2SO_4$, which strong oxidizing agent is specified for the oxidation of ketones?",
+    "topic": "Reactions of Aldehyde and Ketones"
+  },
+  "M62": {
+    "a": "The electrophilic $C$ in the polar carbonyl group",
+    "ans": "a",
+    "b": "The electronegative $O$ in the polar carbonyl group",
+    "c": "The carbon atom of the alkyl group",
+    "d": "The hydrogen atom of the aldehyde",
+    "q": "During the nucleophilic addition of cyanide to a carbonyl group, to which atom does the nucleophilic carbon in the cyanide add?",
+    "topic": "Reactions of Aldehyde and Ketones"
+  },
+  "M63": {
+    "a": "They move to the electronegative $O$ creating an intermediate alkoxide",
+    "ans": "a",
+    "b": "They move to form a double bond with nitrogen",
+    "c": "They remain shared equally between carbon and oxygen",
+    "d": "They are lost as a hydride ion",
+    "q": "What happens to the electrons from the $C=O$ bond when the nucleophilic carbon in cyanide adds to the electrophilic carbon?",
+    "topic": "Reactions of Aldehyde and Ketones"
+  },
+  "M64": {
+    "a": "An oxidation/reduction reaction",
+    "ans": "b",
+    "b": "An acid/base reaction",
+    "c": "A substitution reaction",
+    "d": "A dehydration reaction",
+    "q": "What type of reaction is the second step involving the protonation of the alkoxide oxygen to create the cyanohydrin product?",
+    "topic": "Reactions of Aldehyde and Ketones"
+  },
+  "M65": {
+    "a": "Imine product",
+    "ans": "b",
+    "b": "Cyanohydrin product",
+    "c": "Carboxylic acid product",
+    "d": "Alkene product",
+    "q": "During the second step of cyanohydrin formation, protonation of the alkoxide oxygen creates which product?",
+    "topic": "Reactions of Aldehyde and Ketones"
+  },
+  "M66": {
+    "a": "Propionic acid",
+    "ans": "b",
+    "b": "Acetic acid",
+    "c": "Formic acid",
+    "d": "Butanone",
+    "q": "When acetaldehyde undergoes oxidation with $[O]$ in the presence of $K_2Cr_2O_7/H_2SO_4$, what is the resulting product?",
+    "topic": "Reactions of Aldehyde and Ketones"
+  },
+  "M67": {
+    "a": "Acetic acid",
+    "ans": "b",
+    "b": "Propionic acid",
+    "c": "Formic acid",
+    "d": "Nitric acid",
+    "q": "When propionaldehyde is oxidized by $[O]$ using $K_2Cr_2O_7/H_2SO_4$, which acid is produced?",
+    "topic": "Reactions of Aldehyde and Ketones"
+  },
+  "M68": {
+    "a": "The carbon atom joined to the larger number of hydrogen atoms",
+    "ans": "b",
+    "b": "The carbon atom joined to the smaller number of hydrogen atoms",
+    "c": "The terminal carbon of the alkyl chain",
+    "d": "The carbonyl carbon itself",
+    "q": "During the oxidation of ketones, which carbon atom is specifically oxidized?",
+    "topic": "Reactions of Aldehyde and Ketones"
+  },
+  "M69": {
+    "a": "A single carboxylic acid",
+    "ans": "b",
+    "b": "A mixture of two carboxylic acids",
+    "c": "Only carbon dioxide and water",
+    "d": "A cyanohydrin",
+    "q": "What is always obtained in the case of symmetrical ketones when oxidized by strong oxidizing agents?",
+    "topic": "Reactions of Aldehyde and Ketones"
+  },
+  "M70": {
+    "a": "The carbon joined to the larger number of hydrogen atoms",
+    "ans": "b",
+    "b": "The carbon joined to the smaller number of hydrogen atoms",
+    "c": "The carbonyl carbon",
+    "d": "Both adjacent carbons equally",
+    "q": "In the oxidation of unsymmetrical ketones, which adjacent carbon is preferentially oxidized?",
+    "topic": "Reactions of Aldehyde and Ketones"
+  },
+  "M71": {
+    "a": "Ketone with $NaCN$ or $KCN$ with $HCl$",
+    "ans": "a",
+    "b": "Ketone with primary amine",
+    "c": "Ketone with $K_2Cr_2O_7/H_2SO_4$",
+    "d": "Ketone with conc. $HNO_3$",
+    "q": "If a chemist wants to synthesize a cyanohydrin from a ketone, which reactant and reagent combination should be used?",
+    "topic": "Reactions of Aldehyde and Ketones"
+  },
+  "M72": {
+    "a": "Acetic acid and $HCOOH$",
+    "ans": "a",
+    "b": "Propionic acid and $HCl$",
+    "c": "Acetic acid and propionaldehyde",
+    "d": "Only a single cyanohydrin",
+    "q": "When acetone is subjected to oxidation with $3[O]$ using $K_2Cr_2O_7/H_2SO_4$, what products are obtained?",
+    "topic": "Reactions of Aldehyde and Ketones"
+  },
+  "M73": {
+    "a": "Acetic acid and $CH_3-COOH$",
+    "ans": "a",
+    "b": "Propionic acid and $HCOOH$",
+    "c": "Acetic acid and formic acid",
+    "d": "Two moles of propionic acid",
+    "q": "During the oxidation of butanone with $3[O]$ in the presence of $K_2Cr_2O_7/H_2SO_4$, where the carbonyl group remains with the smaller alkyl group, what products are formed?",
+    "topic": "Reactions of Aldehyde and Ketones"
+  },
+  "M74": {
+    "a": "Cyanohydrin",
+    "ans": "b",
+    "b": "Imine",
+    "c": "Carboxylic acid",
+    "d": "Alkoxide intermediate",
+    "q": "A researcher reacts a primary amine with an aldehyde. What specific class of compound is synthesized?",
+    "topic": "Reactions of Aldehyde and Ketones"
+  },
+  "M75": {
+    "a": "Acetic acid",
+    "ans": "b",
+    "b": "Propionic acid",
+    "c": "Formic acid",
+    "d": "Butyric acid",
+    "q": "If propionaldehyde is treated with a strong oxidizing agent like $K_2Cr_2O_7/H_2SO_4$ in the presence of $[O]$, which carboxylic acid is produced?",
+    "topic": "Reactions of Aldehyde and Ketones"
+  },
+  "M76": {
+    "a": "Tollen's reagent, Fehling's solution, and Benedict's solution",
+    "ans": "a",
+    "b": "Acidified potassium permanganate and potassium dichromate",
+    "c": "Hydrogen peroxide and ozone",
+    "d": "Concentrated nitric acid",
+    "q": "Which of the following mild oxidizing agents easily oxidize aldehydes to carboxylic acids?",
+    "topic": "Test Used to Distinguish Aldehyde and Ketones"
+  },
+  "M77": {
+    "a": "White precipitate of $CuSO_4$",
+    "ans": "b",
+    "b": "Red precipitate of $Cu_2O$",
+    "c": "Blue precipitate of $Cu(OH)_2$",
+    "d": "Black precipitate of $CuO$",
+    "q": "What color of precipitate is formed when Fehling's solution is added to an aldehyde?",
+    "topic": "Test Used to Distinguish Aldehyde and Ketones"
+  },
+  "M78": {
+    "a": "A brown ring",
+    "ans": "c",
+    "b": "A black coating",
+    "c": "Silver mirror ($Ag$)",
+    "d": "Blue crystals",
+    "q": "What product is formed on the inner walls of the test tube during the silver mirror test?",
+    "topic": "Test Used to Distinguish Aldehyde and Ketones"
+  },
+  "M79": {
+    "a": "Sodium or potassium tartarate",
+    "ans": "a",
+    "b": "Sodium hydroxide and ammonia",
+    "c": "Silver nitrate and sodium chloride",
+    "d": "Potassium permanganate and sulfuric acid",
+    "q": "Fehling's solution is an alkaline solution containing $Cu^{2+}$ ions and which ofpropertyPath the following substances?",
+    "topic": "Test Used to Distinguish Aldehyde and Ketones"
+  },
+  "M80": {
+    "a": "1",
+    "ans": "c",
+    "b": "2",
+    "c": "3",
+    "d": "5",
+    "q": "In the chemical equation $CH_3CHO + 2Cu^{2+} + 5OH^- \\rightarrow Cu_2O + CH_3COO^- + 3H_2O$, what is the coefficient of $H_2O$ on the product side?",
+    "topic": "Test Used to Distinguish Aldehyde and Ketones"
+  },
+  "M81": {
+    "a": "They are oxidized to $Cu^{3+}$",
+    "ans": "b",
+    "b": "They reduce themselves to form $Cu^{1+}$",
+    "c": "They remain unchanged",
+    "d": "They form a blue precipitate",
+    "q": "What happens to $Cu^{2+}$ ions when they react with an aldehyde in Fehling's solution?",
+    "topic": "Test Used to Distinguish Aldehyde and Ketones"
+  },
+  "M82": {
+    "a": "Sodium hydroxide",
+    "ans": "a",
+    "b": "Sodium tartarate",
+    "c": "Copper sulfate",
+    "d": "Potassium dichromate",
+    "q": "Tollens reagent is composed of an aqueous solution of silver nitrate, ammonia, and which of the following compounds?",
+    "topic": "Test Used to Distinguish Aldehyde and Ketones"
+  },
+  "M83": {
+    "a": "Aldehydes",
+    "ans": "b",
+    "b": "Ketones",
+    "c": "Carboxylic acids",
+    "d": "Salts of carboxylic acids",
+    "q": "Which of the following compounds are not oxidized by weak oxidizing agents like Tollen's reagent and Fehling's solution?",
+    "topic": "Test Used to Distinguish Aldehyde and Ketones"
+  },
+  "M84": {
+    "a": "Ketone",
+    "ans": "b",
+    "b": "Aldehyde",
+    "c": "Alcohol",
+    "d": "Ether",
+    "q": "An unknown organic compound is added to Fehling's solution, producing a red precipitate of $Cu_2O$. Which category does this organic compound belong to?",
+    "topic": "Test Used to Distinguish Aldehyde and Ketones"
+  },
+  "M85": {
+    "a": "Aldehydes",
+    "ans": "b",
+    "b": "Ketones",
+    "c": "Alcohols",
+    "d": "Carboxylic acids",
+    "q": "A test tube containing an organic compound is treated with aqueous silver nitrate, ammonia, and sodium hydroxide, resulting in the formation of a silver mirror ($Ag$). Which of the following compounds does not give this test?",
+    "topic": "Test Used to Distinguish Aldehyde and Ketones"
+  },
+  "M86": {
+    "a": "$-OH$",
+    "ans": "b",
+    "b": "$-COOH$",
+    "c": "$>C=O$",
+    "d": "$-CHO$",
+    "q": "Which of the following functional groups is present in carboxylic acids?",
+    "topic": "Carboxylic Acids"
+  },
+  "M87": {
+    "a": "With an open chain of carbon atoms",
+    "ans": "b",
+    "b": "With a phenyl or aryl group",
+    "c": "With an alkyl group only",
+    "d": "With a hydroxyl group",
+    "q": "How is the carboxylic group attached in aromatic carboxylic acids?",
+    "topic": "Carboxylic Acids"
+  },
+  "M88": {
+    "a": "Aromatic carboxylic acids",
+    "ans": "b",
+    "b": "Aliphatic carboxylic acids",
+    "c": "Inorganic acids",
+    "d": "Alkyl halides",
+    "q": "What type of carboxylic acids have the carboxyl group attached with an open chain of carbon atoms?",
+    "topic": "Carboxylic Acids"
+  },
+  "M89": {
+    "a": "$R-\\text{C}(=\\text{O})-\\text{OH}$",
+    "ans": "a",
+    "b": "$R-\\text{OH}$",
+    "c": "$R-\\text{CHO}$",
+    "d": "$R-\\text{CO}-\\text{R}$",
+    "q": "Which of the following represents the general formula for carboxylic acids?",
+    "topic": "Carboxylic Acids"
+  },
+  "M90": {
+    "a": "Aromatic carboxylic acid because it contains a phenyl group",
+    "ans": "b",
+    "b": "Aliphatic carboxylic acid because the carboxyl group is attached with an open chain of carbon atoms",
+    "c": "An inorganic acid because it lacks carbon",
+    "d": "An alkyl halide because of the alkyl group",
+    "q": "An organic compound contains a $-COOH$ functional group attached with an open chain of carbon atoms. How is this compound classified?",
+    "topic": "Carboxylic Acids"
+  },
+  "M91": {
+    "a": "Esters",
+    "ans": "b",
+    "b": "Nitriles",
+    "c": "Alcohols",
+    "d": "Alkyl halides",
+    "q": "What is the common name for organic compounds that contain a cyanide group ($-\\mathrm{C}\\equiv\\mathrm{N}$)?",
+    "topic": "Preparation of Carboxylic Acids"
+  },
+  "M92": {
+    "a": "Ammonia ($\\mathrm{NH}_3$)",
+    "ans": "a",
+    "b": "Hydrogen gas ($\\mathrm{H}_2$)",
+    "c": "Water ($\\mathrm{H}_2\\mathrm{O}$)",
+    "d": "Sodium chloride ($\\mathrm{NaCl}$)",
+    "q": "What is the by-product formed along with carboxylic acid during the hydrolysis of an alkyl nitrile with a mineral acid?",
+    "topic": "Preparation of Carboxylic Acids"
+  },
+  "M93": {
+    "a": "It contains one fewer carbon atom",
+    "ans": "c",
+    "b": "It contains the same number of carbon atoms",
+    "c": "It contains one more carbon atom",
+    "d": "It contains two more carbon atoms",
+    "q": "How does the number of carbon atoms in the carboxylic acid produced from an alkyl nitrile compare to the original alkyl halide?",
+    "topic": "Preparation of Carboxylic Acids"
+  },
+  "M94": {
+    "a": "Potassium dichromate or potassium permanganate",
+    "ans": "a",
+    "b": "Sodium hydroxide or potassium hydroxide",
+    "c": "Dilute hydrochloric acid or sulfuric acid",
+    "d": "Sodium chloride or potassium chloride",
+    "q": "Which of the following oxidising agents are used in an acidic medium for the oxidation of primary alcohols to carboxylic acids?",
+    "topic": "Preparation of Carboxylic Acids"
+  },
+  "M95": {
+    "a": "Ester",
+    "ans": "b",
+    "b": "Aldehyde",
+    "c": "Nitrile",
+    "d": "Ketone",
+    "q": "During the oxidation of primary alcohols, what intermediate product is formed before it is further oxidised to a carboxylic acid?",
+    "topic": "Preparation of Carboxylic Acids"
+  },
+  "M96": {
+    "a": "Saponification",
+    "ans": "a",
+    "b": "Esterification",
+    "c": "Neutralisation",
+    "d": "Hydrogenation",
+    "q": "What term is used to describe the basic hydrolysis of esters?",
+    "topic": "Preparation of Carboxylic Acids"
+  },
+  "M97": {
+    "a": "Because it produces an alcohol and water",
+    "ans": "b",
+    "b": "Because it leads to the formation of an alkali salt of carboxylic acids which is soap",
+    "c": "Because it requires heating with a mineral acid",
+    "d": "Because it converts alkyl halides into nitriles",
+    "q": "Why is the basic hydrolysis of esters termed saponification?",
+    "topic": "Preparation of Carboxylic Acids"
+  },
+  "M98": {
+    "a": "Acetic acid and ethanol",
+    "ans": "a",
+    "b": "Sodium acetate and ethanol",
+    "c": "Acetic acid and ammonia",
+    "d": "Sodium acetate and water",
+    "q": "When ethyl acetate ($\\mathrm{CH}_3\\mathrm{COOC}_2\\mathrm{H}_5$) undergoes acid hydrolysis, which products are formed?",
+    "topic": "Preparation of Carboxylic Acids"
+  },
+  "M99": {
+    "a": "$\\mathrm{HCl}$",
+    "ans": "b",
+    "b": "$\\mathrm{NaOH}$",
+    "c": "$\\mathrm{H}_2\\mathrm{O}$",
+    "d": "$\\mathrm{H}_2\\mathrm{SO}_4$",
+    "q": "What reagent is used to convert ethyl acetate into sodium acetate during basic hydrolysis?",
+    "topic": "Preparation of Carboxylic Acids"
+  },
+  "M100": {
+    "a": "By acidification",
+    "ans": "a",
+    "b": "By boiling with mineral acid",
+    "c": "By reduction with hydrogen",
+    "d": "By oxidation with potassium permanganate",
+    "q": "How can an alkali salt of a carboxylic acid obtained from basic hydrolysis of esters be converted into a carboxylic acid?",
+    "topic": "Preparation of Carboxylic Acids"
+  },
+  "M101": {
+    "a": "Mineral acid or alkalis on boiling",
+    "ans": "a",
+    "b": "Potassium dichromate in neutral medium",
+    "c": "Sodium hydroxide and ethanol",
+    "d": "Water at room temperature without catalyst",
+    "q": "What reagents are required for the hydrolysis of an alkyl nitrile to yield a carboxylic acid?",
+    "topic": "Preparation of Carboxylic Acids"
+  },
+  "M102": {
+    "a": "$\\mathrm{2H_2O}$ in the presence of $\\mathrm{HCl}$",
+    "ans": "a",
+    "b": "$\\mathrm{NaOH}$ and heat",
+    "c": "$\\mathrm{KMnO_4}$ and $\\mathrm{H_2SO_4}$",
+    "d": "$\\mathrm{C_2H_5OH}$ and $\\mathrm{H_3O^+}$",
+    "q": "If an organic chemist wants to prepare acetic acid ($\\mathrm{CH}_3\\mathrm{COOH}$) starting from acetonitrile ($\\mathrm{H}_3\\mathrm{C}-\\mathrm{C}\\equiv\\mathrm{N}$), what reactants must be added?",
+    "topic": "Preparation of Carboxylic Acids"
+  },
+  "M103": {
+    "a": "Formic acid",
+    "ans": "b",
+    "b": "Acetic acid",
+    "c": "Propionic acid",
+    "d": "Butyric acid",
+    "q": "A student performs the hydrolysis of ethyl acetate using $\\mathrm{NaOH}$ and heat, followed by acidification. What is the final organic acid obtained?",
+    "topic": "Preparation of Carboxylic Acids"
+  },
+  "M104": {
+    "a": "$-CHO$",
+    "ans": "c",
+    "b": "$-OH$",
+    "c": "$-COOH$",
+    "d": "$-C\\equiv N$",
+    "q": "An unknown primary alcohol undergoes oxidation in the presence of $\\mathrm{KMnO_4}/\\mathrm{H_2SO_4}$. If the initial alcohol has a general formula of $\\mathrm{R}-\\mathrm{CH}_2\\mathrm{OH}$, what functional group is present in the final oxidation product?",
+    "topic": "Preparation of Carboxylic Acids"
+  },
+  "M105": {
+    "a": "Methanol ($\\mathrm{CH}_3\\mathrm{OH}$)",
+    "ans": "b",
+    "b": "Ethanol ($\\mathrm{C}_2\\mathrm{H}_5\\mathrm{OH}$)",
+    "c": "Propanol ($\\mathrm{C}_3\\mathrm{H}_7\\mathrm{OH}$)",
+    "d": "Butanol ($\\mathrm{C}_4\\mathrm{H}_9\\mathrm{OH}$)",
+    "q": "In the reaction of ethyl acetate with $\\mathrm{H}_3\\mathrm{O}^+$, what alcohol molecule is released alongside acetic acid?",
+    "topic": "Preparation of Carboxylic Acids"
+  },
+  "M106": {
+    "a": "Carbonyl and amino groups",
+    "ans": "b",
+    "b": "Carbonyl ($-\\text{C}(=\text{O})-$) and hydroxyl ($-\\text{OH}$) groups",
+    "c": "Alkyl and hydroxyl groups",
+    "d": "Ester and carbonyl groups",
+    "q": "Which two functional groups contribute to the chemistry exhibited by the carboxyl group?",
+    "topic": "Reactivity of Carboxylic Acids"
+  },
+  "M107": {
+    "a": "It undergoes complete oxidation",
+    "ans": "c",
+    "b": "It is cleaved into smaller fragments",
+    "c": "It is retained in most reactions",
+    "c_alt": "It is retained",
+    "d": "It is converted into an alkyl group",
+    "q": "During the majority of chemical reactions involving carboxylic acid molecules, what happens to the carboxyl group?",
+    "topic": "Reactivity of Carboxylic Acids"
+  },
+  "M108": {
+    "a": "The hydroxyl group ($-\\text{OH}$)",
+    "ans": "c",
+    "b": "The attached alkyl chain",
+    "c": "The carbonyl group ($-\\text{C}(=\text{O})-$)",
+    "d": "The terminal hydrogen atom",
+    "q": "The overall reactivity of carboxylic acid molecules is primarily due to the presence of which specific group?",
+    "topic": "Reactivity of Carboxylic Acids"
+  },
+  "M109": {
+    "a": "Carbonyl group ($-\\text{C}(=\text{O})-$)",
+    "ans": "a",
+    "b": "Ether linkage",
+    "c": "Amino group",
+    "d": "Halogen atom",
+    "q": "A carboxyl group structurally combines the chemical characteristics of a hydroxyl group ($-\\text{OH}$) and a:",
+    "topic": "Reactivity of Carboxylic Acids"
+  },
+  "M110": {
+    "a": "Presence of an isolated alkyl group",
+    "ans": "d",
+    "b": "Cleavage of the entire carboxyl moiety",
+    "c": "Dominant behavior of the hydroxyl group ($-\\text{OH}$)",
+    "d": "Presence of the carbonyl group ($-\\text{C}(=\text{O})-$) while retaining the carboxyl group",
+    "q": "In a reaction mechanism study where carboxylic acids are transformed, a researcher notes that the carboxyl group remains intact throughout most steps, yet the molecules exhibit distinct reactivity. What feature governs this behavior?",
+    "topic": "Reactivity of Carboxylic Acids"
+  },
+  "M111": {
+    "a": "Stronger acids",
+    "ans": "b",
+    "b": "Weaker acids",
+    "c": "Equal in strength",
+    "d": "Neutral compounds",
+    "q": "What type of acids are carboxylic acids compared to mineral acids?",
+    "topic": "Reactions of Carboxylic Acids"
+  },
+  "M112": {
+    "a": "$NaBH_4$",
+    "ans": "b",
+    "b": "$LiAlH_4$",
+    "c": "$H_2 / Ni$",
+    "d": "$Zn / HCl$",
+    "q": "Due to their low reactivity, which reagent is specifically stated to reduce carboxylic acids to primary alcohols?",
+    "topic": "Reactions of Carboxylic Acids"
+  },
+  "M113": {
+    "a": "Hydrogen gas ($H_2$)",
+    "ans": "b",
+    "b": "Carbon dioxide gas ($CO_2$)",
+    "c": "Oxygen gas ($O_2$)",
+    "d": "Methane gas ($CH_4$)",
+    "q": "Which gas is evolved with effervescence when carboxylic acids react with carbonates and bicarbonates?",
+    "topic": "Reactions of Carboxylic Acids"
+  },
+  "M114": {
+    "a": "Addition reaction",
+    "ans": "b",
+    "b": "Condensation reaction",
+    "c": "Substitution reaction",
+    "d": "Elimination reaction",
+    "q": "What is the term for a reaction in which two molecules combine with the elimination of a small molecule like water?",
+    "topic": "Reactions of Carboxylic Acids"
+  },
+  "M115": {
+    "a": "$Na, K, Ca, Mg$",
+    "ans": "a",
+    "b": "$Cu, Ag, Au$",
+    "c": "$Fe, Zn, Pb$",
+    "d": "$Ba, Sr, Ra$",
+    "q": "Which active metals are explicitly mentioned to react with carboxylic acids to form salts and evolve hydrogen gas?",
+    "topic": "Reactions of Carboxylic Acids"
+  },
+  "M116": {
+    "a": "Alkanes, alkenes, or alkynes",
+    "ans": "b",
+    "b": "Aldehydes, ketones, or esters",
+    "c": "Amines, amides, or nitriles",
+    "d": "Halides, ethers, or alcohols",
+    "q": "Carboxylic acids are less reactive to reduction by hydride than which of the following?",
+    "topic": "Reactions of Carboxylic Acids"
+  },
+  "M117": {
+    "a": "Esters and water",
+    "ans": "b",
+    "b": "Salts and water",
+    "c": "Aldehydes and hydrogen gas",
+    "d": "Alcohols and carbon dioxide",
+    "q": "In the reaction of carboxylic acids with bases like $NaOH$ or $KOH$, what products are formed?",
+    "topic": "Reactions of Carboxylic Acids"
+  },
+  "M118": {
+    "a": "It is reduced by hydride",
+    "ans": "c",
+    "b": "It undergoes elimination of water",
+    "c": "It is protonated to make it more electrophilic",
+    "d": "It reacts with an active metal to form a salt",
+    "q": "What happens to the carbonyl group during the first step of acid-catalyzed esterification?",
+    "topic": "Reactions of Carboxylic Acids"
+  },
+  "M119": {
+    "a": "It acts as an electrophile attacking the oxygen atom",
+    "ans": "b",
+    "b": "It acts as a nucleophile attacking the electrophilic carbon of the $C=O$ group",
+    "c": "It acts as a catalyst releasing hydrogen ions",
+    "d": "It acts as a reducing agent converting the acid to a primary alcohol",
+    "q": "What role does the alcohol $OH$ group play in the second step of the mechanism for acid-catalyzed esterification?",
+    "topic": "Reactions of Carboxylic Acids"
+  },
+  "M120": {
+    "a": "The hydrogen atom of the carboxyl group",
+    "ans": "b",
+    "b": "The $OH$ group of the carboxylic acid",
+    "c": "The carboxyl group as a whole",
+    "d": "The alkyl group of the acid",
+    "q": "Which part of the carboxylic acid molecule is involved when reacting with alcohol to form esters?",
+    "topic": "Reactions of Carboxylic Acids"
+  },
+  "M121": {
+    "a": "Sodium acetate ($CH_3COONa$)",
+    "ans": "a",
+    "b": "Sodium carbonate ($Na_2CO_3$)",
+    "c": "Ethyl acetate ($CH_3COOC_2H_5$)",
+    "d": "Ethanol ($CH_3CH_2OH$)",
+    "q": "When acetic acid reacts with sodium bicarbonate ($NaHCO_3$), what salt product is formed alongside water and $CO_2$?",
+    "topic": "Reactions of Carboxylic Acids"
+  },
+  "M122": {
+    "a": "$2[H]$",
+    "ans": "c",
+    "b": "$3[H]$",
+    "c": "$4[H]$",
+    "d": "$6[H]$",
+    "q": "In the reduction of carboxylic acids to primary alcohols, how many hydrogen atoms ([H]) are consumed per molecule of acetic acid?",
+    "topic": "Reactions of Carboxylic Acids"
+  },
+  "M123": {
+    "a": "Reduction to alcohols",
+    "ans": "c",
+    "b": "Preparation of esters",
+    "c": "Salt formation involving the hydrogen atom of the carboxyl group",
+    "d": "Reaction involving the $OH$ group of carboxylic acid",
+    "q": "Which type of reaction involves the hydrogen atom of the carboxyl group leading to acidic properties?",
+    "topic": "Reactions of Carboxylic Acids"
+  },
+  "M124": {
+    "a": "Sodium acetate and hydrogen gas",
+    "ans": "a",
+    "b": "Sodium acetate and water",
+    "c": "Sodium bicarbonate and carbon dioxide",
+    "d": "Ethyl acetate and water",
+    "q": "What are the products formed when acetic acid reacts with sodium metal ($Na$)?",
+    "topic": "Reactions of Carboxylic Acids"
+  },
+  "M125": {
+    "a": "Because they possess high reactivity towards reduction",
+    "ans": "b",
+    "b": "Because of their low reactivity",
+    "c": "Because they lack oxygen atoms",
+    "d": "Because they readily form stable ethers",
+    "q": "Why can carboxylic acids only be reduced by $LiAlH_4$ to form primary alcohols?",
+    "topic": "Reactions of Carboxylic Acids"
+  },
+  "M126": {
+    "a": "Methyl acetate",
+    "ans": "b",
+    "b": "Ethyl acetate",
+    "c": "Propyl acetate",
+    "d": "Sodium acetate",
+    "q": "What is the organic ester product formed when acetic acid reacts with ethanol in the presence of concentrated $H_2SO_4$?",
+    "topic": "Reactions of Carboxylic Acids"
+  },
+  "M127": {
+    "a": "Hydrogen ($H_2$)",
+    "ans": "b",
+    "b": "Carbon dioxide ($CO_2$)",
+    "c": "Oxygen ($O_2$)",
+    "d": "Methane ($CH_4$)",
+    "q": "A student adds sodium carbonate ($Na_2CO_3$) to an organic acid solution and observes effervescence. Which gas is evolved in this reaction?",
+    "topic": "Reactions of Carboxylic Acids"
+  },
+  "M128": {
+    "a": "Hydrogen ($H_2$)",
+    "ans": "c",
+    "b": "Carbon dioxide ($CO_2$)",
+    "c": "Water ($H_2O$)",
+    "d": "Methane ($CH_4$)",
+    "q": "During the preparation of an ester by heating acetic acid and ethanol with concentrated $H_2SO_4$, which small molecule is eliminated?",
+    "topic": "Reactions of Carboxylic Acids"
+  },
+  "M129": {
+    "a": "$NaOH$",
+    "ans": "b",
+    "b": "$LiAlH_4$",
+    "c": "$NaHCO_3$",
+    "d": "$H_2SO_4$",
+    "q": "A chemist needs to reduce a carboxylic acid to a primary alcohol. Due to the low reactivity of carboxylic acids, which specific reducing agent must be selected?",
+    "topic": "Reactions of Carboxylic Acids"
+  },
+  "M130": {
+    "a": "The hydroxyl group ($OH$ group as a whole)",
+    "ans": "c",
+    "b": "The alkyl group ($R$)",
+    "c": "The hydrogen atom of the carboxyl group",
+    "d": "The carbonyl carbon atom",
+    "q": "When a carboxylic acid reacts with an active metal like sodium to form a salt and release hydrogen gas, which part of the molecule is involved?",
+    "topic": "Reactions of Carboxylic Acids"
+  },
+  "M131": {
+    "a": "Acid and alcohol",
+    "ans": "a",
+    "b": "Aldehyde and ketone",
+    "c": "Ether and water",
+    "d": "Alkane and alkene",
+    "q": "What are the products formed when esters are hydrolysed with dilute acid or dilute alkali and heat?",
+    "topic": "Hydrolysis of Esters"
+  },
+  "M132": {
+    "a": "Esterification",
+    "ans": "b",
+    "b": "Saponification",
+    "c": "Neutralization",
+    "d": "Polymerization",
+    "q": "What is the basic hydrolysis of esters commonly known as?",
+    "topic": "Hydrolysis of Esters"
+  },
+  "M133": {
+    "a": "It forms an alcohol and water",
+    "ans": "b",
+    "b": "It leads to the formation of an alkali salt of carboxylic acids which is soap",
+    "c": "It produces a neutral ester",
+    "d": "It involves a strong acid catalyst",
+    "q": "Why is the basic hydrolysis of esters called saponification?",
+    "topic": "Hydrolysis of Esters"
+  },
+  "M134": {
+    "a": "$\text{NaOH}$",
+    "ans": "b",
+    "b": "$\text{H}_3\text{O}^+$",
+    "c": "$\text{NaCl}$",
+    "d": "$\text{H}_2\text{O}_2$",
+    "q": "Which of the following reagents is used alongside heat for the acid hydrolysis of esters like $\text{CH}_3\text{--}\text{C}(=\text{O})\text{--}\text{OC}_2\text{H}_5$?",
+    "topic": "Hydrolysis of Esters"
+  },
+  "M135": {
+    "a": "Acetic acid and ethanol",
+    "ans": "b",
+    "b": "Sodium acetate and ethanol",
+    "c": "Sodium ethanoate and methanol",
+    "d": "Formic acid and ethanol",
+    "q": "When ethyl acetate ($\text{CH}_3\text{--}\text{C}(=\text{O})\text{--}\text{OC}_2\text{H}_5$) is treated with $\text{NaOH}$, what are the organic products formed?",
+    "topic": "Hydrolysis of Esters"
+  },
+  "M136": {
+    "a": "Sodium acetate and ethanol",
+    "ans": "b",
+    "b": "Acetic acid and ethanol",
+    "c": "Acetic acid and methanol",
+    "d": "Sodium ethanoate and water",
+    "q": "The reaction of ethyl acetate ($\text{CH}_3\text{--}\text{C}(=\text{O})\text{--}\text{OC}_2\text{H}_5$) with $\text{H}_3\text{O}^+$ and heat yields which of the following products?",
+    "topic": "Hydrolysis of Esters"
+  },
+  "M137": {
+    "a": "Methanol ($\text{CH}_3\text{OH}$)",
+    "ans": "b",
+    "b": "Ethanol ($\text{C}_2\text{H}_5\text{OH}$)",
+    "c": "Propanol ($\text{C}_3\text{H}_7\text{OH}$)",
+    "d": "Butanol ($\text{C}_4\text{H}_9\text{OH}$)",
+    "q": "Which common alcohol is produced in both the acid and base hydrolysis of ethyl acetate ($\text{CH}_3\text{--}\text{C}(=\text{O})\text{--}\text{OC}_2\text{H}_5$)?",
+    "topic": "Hydrolysis of Esters"
+  },
+  "M138": {
+    "a": "Soap",
+    "ans": "a",
+    "b": "Plastic",
+    "c": "Alcohol",
+    "d": "Ester",
+    "q": "The alkali salt of carboxylic acids formed during the basic hydrolysis of esters functions as which of the following?",
+    "topic": "Hydrolysis of Esters"
+  },
+  "M139": {
+    "a": "$\text{CH}_3\text{COOH}$",
+    "ans": "b",
+    "b": "$\text{CH}_3\text{--}\text{C}(=\text{O})\text{--}\text{ONa}$",
+    "c": "$\text{C}_2\text{H}_5\text{OH}$",
+    "d": "$\text{CH}_3\text{--}\text{C}(=\text{O})\text{--}\text{OC}_2\text{H}_5$",
+    "q": "In an experiment, ethyl acetate is reacted with $\text{NaOH}$. What is the chemical formula of the alkali salt of carboxylic acid produced?",
+    "topic": "Hydrolysis of Esters"
+  },
+  "M140": {
+    "a": "Formic acid",
+    "ans": "c",
+    "b": "Propanoic acid",
+    "c": "Acetic acid ($\text{CH}_3\text{--}\text{C}(=\text{O})\text{--}\text{OH}$)",
+    "d": "Butyric acid",
+    "q": "If a reaction mixture containing ethyl acetate and $\text{H}_3\text{O}^+$ is heated, which carboxylic acid is formed alongside ethanol?",
+    "topic": "Hydrolysis of Esters"
+  },
+  "M141": {
+    "a": "Primary alcohol",
+    "ans": "b",
+    "b": "Secondary alcohol",
+    "c": "Tertiary alcohol",
+    "d": "none of these",
+    "q": "Ketones are prepared by the oxidation of:",
+    "topic": "Exercise"
+  },
+  "M142": {
+    "a": "Grignard reagent",
+    "ans": "a",
+    "b": "Tollen's reagent",
+    "c": "Fehling's reagent",
+    "d": "Benedict's reagent",
+    "q": "Which of the following reagents will react with both aldehydes and ketones?",
+    "topic": "Exercise"
+  },
+  "M143": {
+    "a": "p-alcohols",
+    "ans": "a",
+    "b": "s-alcohols",
+    "c": "ter-alcohols",
+    "d": "carboxylic acids",
+    "q": "Aldehydes are the oxidation product of:",
+    "topic": "Exercise"
+  },
+  "M144": {
+    "a": "Acetaldehyde",
+    "ans": "d",
+    "b": "Acetone",
+    "c": "Butanone",
+    "d": "3-pentanone",
+    "q": "Which of the following compounds will not given iodoform test on treatment with $I_2 / \\text{NaOH}$?",
+    "topic": "Exercise"
+  },
+  "M145": {
+    "a": "Both aldehydes and ketones",
+    "ans": "b",
+    "b": "Aldehydes only",
+    "c": "Ketones only",
+    "d": "Neither aldehydes nor ketones",
+    "q": "Aldehydes and ketones are carbonyl compounds. Which of them react both with $NaBH_4$ and with Tollen's reagent?",
+    "topic": "Exercise"
+  },
+  "M146": {
+    "a": "A Hydroxyl group",
+    "ans": "b",
+    "b": "A Carboxyl group",
+    "c": "Hydroxyl and Carboxyl group",
+    "d": "A Carboxyl and aldehyde group",
+    "q": "A carboxylic acid contains functional group:",
+    "topic": "Exercise"
+  },
+  "M147": {
+    "a": "He/Ni",
+    "ans": "d",
+    "b": "$H_2/Pt$",
+    "c": "$NaBH_4$",
+    "d": "$LiAlH_4$",
+    "q": "Which reagent is used to reduce a carboxylic acid?",
+    "topic": "Exercise"
+  },
+  "M148": {
+    "a": "$CO_2$",
+    "ans": "b",
+    "b": "$H_2$",
+    "c": "$CO$",
+    "d": "$CH_4$",
+    "q": "Carboxylic acids react with metal to form salts with the evolution of:",
+    "topic": "Exercise"
+  },
+  "M149": {
+    "a": "alcohols",
+    "ans": "a",
+    "b": "ethers",
+    "c": "aldehydes",
+    "d": "Alkyl halides",
+    "q": "Esters are formed by the reaction of carboxylic acids with:",
+    "topic": "Exercise"
+  },
+  "M150": {
+    "a": "ethers",
+    "ans": "b",
+    "b": "esters",
+    "c": "anhydride",
+    "d": "amide",
+    "q": "When a carboxylic acid reacts with alcohol, it produces a new class of compounds:",
+    "topic": "Exercise"
+  },
+  "M151": {
+    "a": "White",
+    "ans": "c",
+    "b": "Black",
+    "c": "Yellow",
+    "d": "Blue",
+    "q": "The colour of iodoform is:",
+    "topic": "Exercise"
+  }
+    }
+              },
+              "Chapter 20: Nitrogen Compounds - Amines": {
+    "Questions": {
+  "M1": {
+    "a": "Ethers",
+    "ans": "b",
+    "b": "Amines",
+    "c": "Alcohols",
+    "d": "Carboxylic acids",
+    "q": "Which of the following organic compounds are generally derived from ammonia by replacing one or more hydrogen atoms by alkyl or aryl groups?",
+    "topic": "Amines"
+  },
+  "M2": {
+    "a": "$R-NH-R$",
+    "ans": "c",
+    "b": "$(R)_3N$",
+    "c": "$R-NH_2$",
+    "d": "$R-OH$",
+    "q": "What is the general formula for primary amines?",
+    "topic": "Amines"
+  },
+  "M3": {
+    "a": "One",
+    "ans": "b",
+    "b": "Two",
+    "c": "Three",
+    "d": "Four",
+    "q": "How many alkyl groups are linked with the nitrogen atom in secondary amines?",
+    "topic": "Amines"
+  },
+  "M4": {
+    "a": "Carbon atom",
+    "ans": "d",
+    "b": "Hydrogen atom",
+    "c": "Oxygen atom",
+    "d": "Nitrogen atom",
+    "q": "In the structure of amines, a lone pair of electrons is present on which atom?",
+    "topic": "Amines"
+  },
+  "M5": {
+    "a": "Primary amine",
+    "ans": "a",
+    "b": "Secondary amine",
+    "c": "Tertiary amine",
+    "d": "Quaternary amine",
+    "q": "An organic compound has the condensed structural formula $\\text{CH}_3-\\text{CH}_2-\\text{NH}_2$. Which type of amine does this compound represent?",
+    "topic": "Amines"
+  },
+  "M6": {
+    "a": "$sp$",
+    "ans": "c",
+    "b": "$sp^2$",
+    "c": "$sp^3$",
+    "d": "$dsp^2$",
+    "q": "What type of hybridization is exhibited by the nitrogen atom in amines?",
+    "topic": "Physical Properties of Amines"
+  },
+  "M7": {
+    "a": "$C-H$ bond",
+    "ans": "b",
+    "b": "$N-H$ bond",
+    "c": "$C-N$ bond",
+    "d": "$C-C$ bond",
+    "q": "The polar nature of which bond results in the formation of hydrogen bonds with other amine molecules?",
+    "topic": "Physical Properties of Amines"
+  },
+  "M8": {
+    "a": "Trigonal planar",
+    "ans": "d",
+    "b": "Linear",
+    "c": "Octahedral",
+    "d": "Nearly tetrahedral",
+    "q": "What geometric structure is possessed by amines due to the hybridization of the nitrogen atom?",
+    "topic": "Physical Properties of Amines"
+  },
+  "M9": {
+    "a": "Due to ionic bonding",
+    "ans": "b",
+    "b": "Due to hydrogen bonding",
+    "c": "Due to high molecular mass",
+    "d": "Due to double bond character",
+    "q": "Why do amines exhibit high melting and boiling points compared to analogous alkanes?",
+    "topic": "Physical Properties of Amines"
+  },
+  "M10": {
+    "a": "Electronegativity difference of the two atoms",
+    "ans": "a",
+    "b": "Presence of a positive charge on nitrogen",
+    "c": "Equal sharing of electrons between nitrogen and hydrogen",
+    "d": "Resonance effect within the molecule",
+    "q": "What causes the polar nature of the $N-H$ bond in amine molecules?",
+    "topic": "Physical Properties of Amines"
+  },
+  "M11": {
+    "a": "One",
+    "ans": "c",
+    "b": "Two",
+    "c": "Three",
+    "d": "Four",
+    "q": "How many sigma bonds does the nitrogen atom form in amines using its hybrid orbitals?",
+    "topic": "Physical Properties of Amines"
+  },
+  "M12": {
+    "a": "Ability to accept an electron pair making it an acid",
+    "ans": "b",
+    "b": "Ability to donate an electron pair making it a base and a nucleophile",
+    "c": "Inertness preventing any chemical reaction",
+    "d": "Ability to form pi bonds with adjacent atoms",
+    "q": "What is the role of the non-bonding $sp^3$-hybrid orbital carrying a pair of electrons on nitrogen in amines?",
+    "topic": "Physical Properties of Amines"
+  },
+  "M13": {
+    "a": "Optical activity",
+    "ans": "a",
+    "b": "Geometric isomerism",
+    "c": "Paramagnetism",
+    "d": "Electrical conductivity",
+    "q": "Which property is observed in an amine containing three different groups attached to the nitrogen atom?",
+    "topic": "Physical Properties of Amines"
+  },
+  "M14": {
+    "a": "It acts as an acid and an electrophile",
+    "ans": "b",
+    "b": "It acts as a base and a nucleophile",
+    "c": "It is completely chemically inert",
+    "d": "It acts as a strong oxidizing agent",
+    "q": "An organic compound contains a nitrogen atom that is $sp^3$-hybridized, forms three sigma bonds, and has a fourth non-bonding $sp^3$-hybrid orbital carrying an electron pair. What characteristic will this compound exhibit regarding its chemical behavior?",
+    "topic": "Physical Properties of Amines"
+  },
+  "M15": {
+    "a": "The amine will have lower boiling point and lower solubility in water",
+    "ans": "c",
+    "b": "The alkane will have higher boiling point and higher solubility in water",
+    "c": "The amine will have higher melting and boiling points and high solubility in water",
+    "d": "Both will exhibit identical boiling points and solubility",
+    "q": "A chemist compares the boiling point and solubility in water of an amine with an analogous alkane. Based on the bonding characteristics, what outcome is expected?",
+    "topic": "Physical Properties of Amines"
+  },
+  "M16": {
+    "a": "$50^\\circ\\text{C}$",
+    "ans": "b",
+    "b": "$100^\\circ\\text{C}$",
+    "c": "$150^\\circ\\text{C}$",
+    "d": "$300^\\circ\\text{C}$",
+    "q": "What is the temperature used when an alcoholic solution of ammonia is heated with an alkyl halide in a sealed tube?",
+    "topic": "Preparation of Amines"
+  },
+  "M17": {
+    "a": "Primary ammonium salt",
+    "ans": "d",
+    "b": "Secondary ammonium salt",
+    "c": "Tertiary ammonium salt",
+    "d": "Quaternary ammonium salt",
+    "q": "Which of the following salts is unaffected by the addition of a strong alkali like $\\text{KOH}$ at the end of the alkyl halide and ammonia reaction?",
+    "topic": "Preparation of Amines"
+  },
+  "M18": {
+    "a": "Fractional distillation",
+    "ans": "a",
+    "b": "Simple distillation",
+    "c": "Fractional crystallization",
+    "d": "Solvent extraction",
+    "q": "Which method is used to separate the three types of amines obtained from the reaction of alkyl halides with ammonia?",
+    "topic": "Preparation of Amines"
+  },
+  "M19": {
+    "a": "$\\text{LiAlH}_4$ or sodium in ethanol",
+    "ans": "a",
+    "b": "$\\text{Zn}$ and $\\text{HCl}$",
+    "c": "$\\text{H}_2$ in the presence of $\\text{Pd}$",
+    "d": "$\\text{Fe}$ and $\\text{H}_2\\text{SO}_4$",
+    "q": "Which of the following reducing agents is used for the reduction of nitriles to primary amines?",
+    "topic": "Preparation of Amines"
+  },
+  "M20": {
+    "a": "$\\text{Pt}$, $\\text{Pd}$, or $\\text{Ni}$",
+    "ans": "b",
+    "b": "$\\text{Rh-Al}_2\\text{O}_3$, $\\text{Pt}$, or Raney nickel",
+    "c": "$\\text{Sn}$ and $\\text{HCl}$",
+    "d": "$\\text{Cu}$ and $\\text{Al}_2\\text{O}_3$",
+    "q": "Which catalysts are used in the catalytic reduction of nitriles with hydrogen gas?",
+    "topic": "Preparation of Amines"
+  },
+  "M21": {
+    "a": "Concentrated hydrochloric acid",
+    "ans": "a",
+    "b": "Dilute sulfuric acid",
+    "c": "Concentrated nitric acid",
+    "d": "Glacial acetic acid",
+    "q": "Nitrobenzene can be reduced to aniline by using a reducing agent consisting of tin and iron in the presence of which acid?",
+    "topic": "Preparation of Amines"
+  },
+  "M22": {
+    "a": "$-\\text{OH}$ group",
+    "ans": "b",
+    "b": "$-\\text{CO}$ group",
+    "c": "$-\\text{CN}$ group",
+    "d": "$-\\text{NO}_2$ group",
+    "q": "When an amide is treated with the reducing agent $\\text{LiAlH}_4$, which functional group is reduced to $-\\text{CH}_2$?",
+    "topic": "Preparation of Amines"
+  },
+  "M23": {
+    "a": "Cannizzaro reaction",
+    "ans": "b",
+    "b": "Hoffmann degradation reaction",
+    "c": "Wurtz reaction",
+    "d": "Friedel-Crafts reaction",
+    "q": "What is the name of the reaction when an amide is treated with bromine in the presence of $\\text{KOH}$ leading to the formation of a primary amine?",
+    "topic": "Preparation of Amines"
+  },
+  "M24": {
+    "a": "Nitriles, amides, and nitro",
+    "ans": "a",
+    "b": "Alcohols, ethers, and esters",
+    "c": "Aldehydes, ketones, and carboxylic acids",
+    "d": "Halides, cyanides, and acids",
+    "q": "Which of the following nitrogen-containing functional groups are reduced to amino groups by various reducing agents?",
+    "topic": "Preparation of Amines"
+  },
+  "M25": {
+    "a": "Only primary amines",
+    "ans": "b",
+    "b": "A mixture of primary, secondary, tertiary amines and a quaternary ammonium salt",
+    "c": "Only quaternary ammonium salts",
+    "d": "A mixture of amides and nitriles",
+    "q": "What mixture of products is obtained when an alcoholic solution of ammonia is heated with an alkyl halide in a sealed tube?",
+    "topic": "Preparation of Amines"
+  },
+  "M26": {
+    "a": "By using an excess of alkyl halide",
+    "ans": "b",
+    "b": "By using an excess of ammonia",
+    "c": "By running the reaction at high temperatures",
+    "d": "By adding strong alkali at the beginning",
+    "q": "How can over alkylation be avoided when preparing amines from alkyl halides and ammonia?",
+    "topic": "Preparation of Amines"
+  },
+  "M27": {
+    "a": "The yield is high",
+    "ans": "b",
+    "b": "The yield is low",
+    "c": "Only quaternary salts are formed",
+    "d": "No reaction takes place",
+    "q": "What is the consequence of using an excess of ammonia to avoid over alkylation in the reaction with alkyl halides?",
+    "topic": "Preparation of Amines"
+  },
+  "M28": {
+    "a": "To liberate free amines from their salts",
+    "ans": "a",
+    "b": "To destroy the quaternary salt",
+    "c": "To neutralize the excess alkyl halide",
+    "d": "To form quaternary ammonium salts",
+    "q": "What is the purpose of adding a strong alkali such as $\\text{KOH}$ at the end of the alkyl halide and ammonia reaction?",
+    "topic": "Preparation of Amines"
+  },
+  "M29": {
+    "a": "Primary amines",
+    "ans": "a",
+    "b": "Secondary amines",
+    "c": "Tertiary amines",
+    "d": "Quaternary ammonium salts",
+    "q": "What type of amines are produced by the reduction of alkyl or aryl nitriles?",
+    "topic": "Preparation of Amines"
+  },
+  "M30": {
+    "a": "$\\text{LiAlH}_4$ only",
+    "ans": "b",
+    "b": "Tin/iron in the presence of concentrated hydrochloric acid or catalytic hydrogenation",
+    "c": "Bromine in the presence of $\\text{KOH}$",
+    "d": "Alcoholic ammonia",
+    "q": "Which of the following reagents can be used for the catalytic or chemical reduction of nitro compounds to produce primary amines?",
+    "topic": "Preparation of Amines"
+  },
+  "M31": {
+    "a": "The carbon chain remains intact",
+    "ans": "a",
+    "b": "The carbon chain is shortened by one carbon",
+    "c": "The carbon chain is lengthened",
+    "d": "The carbon chain is broken into two fragments",
+    "q": "What happens to the carbon chain during the reduction of an amide with $\\text{LiAlH}_4$ to form a primary amine?",
+    "topic": "Preparation of Amines"
+  },
+  "M32": {
+    "a": "Benzylamine",
+    "ans": "b",
+    "b": "Aniline (phenyl amine)",
+    "c": "Diethylamine",
+    "d": "Triethylamine",
+    "q": "Nitrobenzene can be reduced to which of the following compounds?",
+    "topic": "Preparation of Amines"
+  },
+  "M33": {
+    "a": "$1,4\\text{-diaminobenzene}$",
+    "ans": "a",
+    "b": "Nitrobenzene",
+    "c": "Aniline",
+    "d": "Triethylamine",
+    "q": "When $4\\text{-nitroaniline}$ is reduced using $\\text{Fe} / \\text{H}_2\\text{SO}_4 / [\\text{H}]$, what product is formed?",
+    "topic": "Preparation of Amines"
+  },
+  "M34": {
+    "a": "$\\text{CH}_3\\text{CH}_2\\text{NH}_2$",
+    "ans": "a",
+    "b": "$\\text{CH}_3\\text{NH}_2$",
+    "c": "$(\\text{CH}_3)_2\\text{NH}$",
+    "d": "$(\\text{CH}_3)_3\\text{N}$",
+    "q": "In the reduction of nitriles using $\\text{H}_2$ gas in the presence of $\\text{Rh-Al}_2\\text{O}_3$, what is the product formed from $\\text{CH}_3\\text{CN}$?",
+    "topic": "Preparation of Amines"
+  },
+  "M35": {
+    "a": "Phenylethylamine",
+    "ans": "a",
+    "b": "Benzylamine",
+    "c": "Aniline",
+    "d": "Ethylamine",
+    "q": "Benzyl cyanide on reaction with hydrogen gas in the presence of nickel at $300^\\circ\\text{C}$ yields which of the following?",
+    "topic": "Preparation of Amines"
+  },
+  "M36": {
+    "a": "It aids in the degradation of amide leading to the formation of primary amine",
+    "ans": "a",
+    "b": "It reduces the $-\\text{CO}$ group to $-\\text{CH}_2$",
+    "c": "It converts nitriles into amides",
+    "d": "It alkylates ammonia",
+    "q": "What is the role of strong alkali like $\\text{KOH}$ when combined with bromine in the degradation of amides?",
+    "topic": "Preparation of Amines"
+  },
+  "M37": {
+    "a": "A $-\\text{CH}_2-$ group is inserted between the alkyl/aryl group and the amino group",
+    "ans": "a",
+    "b": "The carbon chain is eliminated entirely",
+    "c": "The nitrile carbon is lost as carbon dioxide",
+    "d": "The carbon chain is doubled in length",
+    "q": "Which statement is true regarding the carbon chain product during the reduction of nitriles to primary amines?",
+    "topic": "Preparation of Amines"
+  },
+  "M38": {
+    "a": "Primary amines",
+    "ans": "a",
+    "b": "Secondary amines",
+    "c": "Tertiary amines",
+    "d": "Quaternary ammonium salts",
+    "q": "What class of amines is produced when alkyl or aryl nitriles undergo reduction?",
+    "topic": "Preparation of Amines"
+  },
+  "M39": {
+    "a": "$\\text{LiAlH}_4$",
+    "ans": "a",
+    "b": "$\\text{Sn} + \\text{HCl}$",
+    "c": "$\\text{Fe} + \\text{H}_2\\text{SO}_4$",
+    "d": "$\\text{Rh-Al}_2\\text{O}_3$",
+    "q": "Which reducing agent converts amides into primary amines by reducing the $-\\text{CO}$ group to $-\\text{CH}_2$?",
+    "topic": "Preparation of Amines"
+  },
+  "M40": {
+    "a": "Ethyl amine ($\\text{C}_2\\text{H}_5 - \\text{NH}_2$)",
+    "ans": "a",
+    "b": "Diethyl amine",
+    "c": "Triethyl amine",
+    "d": "Quaternary ethyl ammonium iodide",
+    "q": "If an alcoholic solution of ethyl iodide ($\\text{C}_2\\text{H}_5\\text{I}$) is heated with ammonia in a sealed tube at $100^\\circ\\text{C}$, which substance is formed as the initial mono-substitution product?",
+    "topic": "Preparation of Amines"
+  },
+  "M41": {
+    "a": "Ethyl amine",
+    "ans": "b",
+    "b": "Diethyl amine",
+    "c": "Ammonia",
+    "d": "Quaternary ammonium salt",
+    "q": "During successive reactions starting from ethyl iodide to prepare triethyl amine, what intermediate amine is reacted with ethyl iodide to form triethyl amine?",
+    "topic": "Preparation of Amines"
+  },
+  "M42": {
+    "a": "$\\text{Rh-Al}_2\\text{O}_3$ with hydrogen gas",
+    "ans": "a",
+    "b": "$\\text{LiAlH}_4$",
+    "c": "Tin and hydrochloric acid",
+    "d": "Bromine and $\\text{KOH}$",
+    "q": "A student wants to prepare aminoethane ($\\text{CH}_3\\text{CH}_2\\text{NH}_2$) from acetonitrile ($\\text{CH}_3\\text{CN}$). Which catalytic system should be selected for this hydrogenation?",
+    "topic": "Preparation of Amines"
+  },
+  "M43": {
+    "a": "Hydrogen gas in the presence of nickel at $300^\\circ\\text{C}$",
+    "ans": "a",
+    "b": "Sodium in ethanol",
+    "c": "Tin in concentrated hydrochloric acid",
+    "d": "Bromine in $\\text{KOH}$",
+    "q": "An industrial chemist is converting benzyl cyanide ($\\text{C}_6\\text{H}_5\\text{CH}_2\\text{CN}$) into phenylethylamine ($\\text{C}_6\\text{H}_5\\text{CH}_2\\text{CH}_2\\text{NH}_2$). Which reagent and condition should be employed?",
+    "topic": "Preparation of Amines"
+  },
+  "M44": {
+    "a": "$\\text{Fe} / \\text{H}_2\\text{SO}_4 / [\\text{H}]$",
+    "ans": "a",
+    "b": "$\\text{Sn} + \\text{HCl} / [\\text{H}]$",
+    "c": "$\\text{LiAlH}_4$",
+    "d": "$\\text{Rh-Al}_2\\text{O}_3$ with $\\text{H}_2$",
+    "q": "In a laboratory synthesis, a researcher reduces $4\\text{-nitroaniline}$ to $1,4\\text{-diaminobenzene}$. Which reducing system is specifically indicated for this transformation?",
+    "topic": "Preparation of Amines"
+  },
+  "M45": {
+    "a": "Ethylamine and water ($\\text{CH}_3\\text{CH}_2\\text{NH}_2 + \\text{H}_2\\text{O}$)",
+    "ans": "a",
+    "b": "Methylamine and carbon dioxide",
+    "c": "Diethylamine and hydrogen gas",
+    "d": "Aniline and hydrochloric acid",
+    "q": "When acetamide ($\\text{CH}_3-\\text{CO}-\\text{NH}_2$) is treated with the reducing agent $\\text{LiAlH}_4$ along with $4[\\text{H}]$, what products are formed?",
+    "topic": "Preparation of Amines"
+  },
+  "M46": {
+    "a": "Because of delocalized $\\pi$ electrons in the ring",
+    "ans": "b",
+    "b": "Because of non-bonding pair of electrons on nitrogen can easily be donated to an electron-deficient centre",
+    "c": "Due to the presence of $sp^3$-orbital of hydrogen atoms",
+    "d": "Due to high electronegativity of carbon atoms",
+    "q": "Why do amines act as basic and nucleophilic substances?",
+    "topic": "Basicity of Amines and Methyl Amine"
+  },
+  "M47": {
+    "a": "3.38",
+    "ans": "b",
+    "b": "4.76",
+    "c": "5.25",
+    "d": "4.26",
+    "q": "What is the $pK_b$ value for ammonia?",
+    "topic": "Basicity of Amines and Methyl Amine"
+  },
+  "M48": {
+    "a": "4.76",
+    "ans": "b",
+    "b": "3.38",
+    "c": "2.45",
+    "d": "5.12",
+    "q": "What is the $pK_b$ value for methyl amine?",
+    "topic": "Basicity of Amines and Methyl Amine"
+  },
+  "M49": {
+    "a": "By $sp^3$-orbital of carbon atoms",
+    "ans": "b",
+    "b": "By $s$-orbitals of hydrogen atoms",
+    "c": "By $p$-orbitals of nitrogen atoms",
+    "d": "By electron-donating alkyl groups",
+    "q": "In $\\text{NH}_3$, how is the pair of electrons attracted?",
+    "topic": "Basicity of Amines and Methyl Amine"
+  },
+  "M50": {
+    "a": "It pulls electrons away from nitrogen",
+    "ans": "b",
+    "b": "It pushes electrons towards nitrogen",
+    "c": "It holds the pair of electrons tightly via $s$-orbitals",
+    "d": "It neutralizes the non-bonding electron pair",
+    "q": "What role does the $sp^3$-orbital of carbon play in $\\text{CH}_3-\\text{NH}_2$?",
+    "topic": "Basicity of Amines and Methyl Amine"
+  },
+  "M51": {
+    "a": "It decreases the basicity of amines",
+    "ans": "c",
+    "b": "It has no effect on the basicity of amines",
+    "c": "It increases the basicity of amines",
+    "d": "It eliminates the non-bonding pair of electrons",
+    "q": "What is the effect of an electron-donating group on the basicity of amines?",
+    "topic": "Basicity of Amines and Methyl Amine"
+  },
+  "M52": {
+    "a": "It has one electron-donating group",
+    "ans": "b",
+    "b": "It has two electron-donating alkyl groups",
+    "c": "Its electrons are attracted by $s$-orbitals of hydrogen atoms",
+    "d": "Its $pK_b$ value is higher than $4.76$",
+    "q": "Why is a secondary amine a stronger base than a primary amine?",
+    "topic": "Basicity of Amines and Methyl Amine"
+  },
+  "M53": {
+    "a": "$pK_{\\text{NH}_3} < pK_{\\text{CH}_3\\text{NH}_2}$",
+    "ans": "c",
+    "b": "$pK_{\\text{NH}_3} = pK_{\\text{CH}_3\\text{NH}_2}$",
+    "c": "$pK_{\\text{NH}_3} > pK_{\\text{CH}_3\\text{NH}_2}$",
+    "d": "$pK_{\\text{NH}_3} + pK_{\\text{CH}_3\\text{NH}_2} = 1$",
+    "q": "Which of the following correct inequalities relates the $pK_b$ values of ammonia and methyl amine?",
+    "topic": "Basicity of Amines and Methyl Amine"
+  },
+  "M54": {
+    "a": "Ammonia is a stronger base than methyl amine",
+    "ans": "b",
+    "b": "Methyl amine is a stronger base than ammonia",
+    "c": "Both have equal base strength",
+    "d": "Neither acts as a base",
+    "q": "Given that $pK_{\\text{NH}_3} > pK_{\\text{CH}_3\\text{NH}_2}$ ($4.76 > 3.38$), what can be deduced about their relative base strengths?",
+    "topic": "Basicity of Amines and Methyl Amine"
+  },
+  "M55": {
+    "a": "It will be a weaker base than the primary amine",
+    "ans": "b",
+    "b": "It will be a stronger base than the primary amine",
+    "c": "It will have the exact same base strength as ammonia",
+    "d": "It will lose its non-bonding pair of electrons",
+    "q": "If an organic amine compound is structured to contain two electron-donating alkyl groups instead of one, how will its base strength compare?",
+    "topic": "Basicity of Amines and Methyl Amine"
+  },
+  "M56": {
+    "a": "Primary amide",
+    "ans": "b",
+    "b": "Secondary amide",
+    "c": "Tertiary amide",
+    "d": "Ammonium salt",
+    "q": "What is formed when an amine reacts with an acid halide?",
+    "topic": "Reactions of Amines"
+  },
+  "M57": {
+    "a": "$N$-Ethyl acetamide",
+    "ans": "a",
+    "b": "$N$-Ethyl ethanamine",
+    "c": "Diethyl amine",
+    "d": "Triethyl amine",
+    "q": "What is the name of the organic product formed in the reaction between $CH_3COCl$ and $CH_3CH_2NH_2$?",
+    "topic": "Reactions of Amines"
+  },
+  "M58": {
+    "a": "Secondary amine, tertiary amine and ammonium salt",
+    "ans": "a",
+    "b": "Only secondary amide",
+    "c": "Diazonium salts",
+    "d": "Phenyl azo compounds",
+    "q": "What are the products formed when primary amines react with alkyl halides?",
+    "topic": "Reactions of Amines"
+  },
+  "M59": {
+    "a": "Diazotization",
+    "ans": "b",
+    "b": "Alkylation reaction",
+    "c": "Halogenation",
+    "d": "Esterification",
+    "q": "What is the name given to the reaction where primary amines react with alkyl halides?",
+    "topic": "Reactions of Amines"
+  },
+  "M60": {
+    "a": "Acid halides",
+    "ans": "c",
+    "b": "Alkyl halides",
+    "c": "Diazonium compounds",
+    "d": "Secondary amides",
+    "q": "What type of compound is formed when amines react with nitrous acid in the presence of hydrochloric acid?",
+    "topic": "Reactions of Amines"
+  },
+  "M61": {
+    "a": "$0\\,^\\circ\\text{C}$",
+    "ans": "b",
+    "b": "$10\\,^\\circ\\text{C}$",
+    "c": "$25\\,^\\circ\\text{C}$",
+    "d": "$100\\,^\\circ\\text{C}$",
+    "q": "Below what temperature must the reaction mixture be kept during the preparation of diazonium salts?",
+    "topic": "Reactions of Amines"
+  },
+  "M62": {
+    "a": "They are too unstable for practical use",
+    "ans": "a",
+    "b": "They are explosive in solid form",
+    "c": "They are insoluble in water",
+    "d": "They react with phenol too quickly",
+    "q": "Why are alkyl diazonium salts generally unsuitable for practical applications?",
+    "topic": "Reactions of Amines"
+  },
+  "M63": {
+    "a": "The presence of chlorine atoms",
+    "ans": "b",
+    "b": "The delocalized electron in the benzene ring",
+    "c": "The low temperature of $10\\,^\\circ\\text{C}$",
+    "d": "The presence of an acid halide group",
+    "q": "What factor stabilizes the benzene diazonium ion compared to aliphatic diazonium salts?",
+    "topic": "Reactions of Amines"
+  },
+  "M64": {
+    "a": "A colorless crystalline solid",
+    "ans": "a",
+    "b": "A red liquid",
+    "c": "A blue gas",
+    "d": "A white amorphous powder",
+    "q": "What is the physical state and appearance of benzene diazonium chloride?",
+    "topic": "Reactions of Amines"
+  },
+  "M65": {
+    "a": "It polymerizes",
+    "ans": "c",
+    "b": "It melts into a liquid",
+    "c": "It decomposes easily",
+    "d": "It reacts with phenol to form an orange-red dye",
+    "q": "What happens to benzene diazonium chloride when the temperature rises above $10\\,^\\circ\\text{C}$?",
+    "topic": "Reactions of Amines"
+  },
+  "M66": {
+    "a": "An orange-red dye",
+    "ans": "a",
+    "b": "A white precipitate",
+    "c": "A secondary amide",
+    "d": "Quaternary ammonium salt",
+    "q": "What is formed when benzene diazonium chloride is combined with phenol?",
+    "topic": "Reactions of Amines"
+  },
+  "M67": {
+    "a": "Textile, cosmetics, paint, and leather industries",
+    "ans": "a",
+    "b": "Food, pharmaceutical, and paper industries",
+    "c": "Rubber, plastic, and petroleum industries",
+    "d": "Steel, glass, and ceramic industries",
+    "q": "Which industries utilize phenyl azo compounds as dyes and pigments?",
+    "topic": "Reactions of Amines"
+  },
+  "M68": {
+    "a": "Antibacterial and antifungal properties",
+    "ans": "a",
+    "b": "Antioxidant and anti-inflammatory properties",
+    "c": "Antiviral and analgesic properties",
+    "d": "Antiseptic and coagulating properties",
+    "q": "Besides being used as dyes and pigments, what other characteristics do phenyl azo dyes possess?",
+    "topic": "Reactions of Amines"
+  },
+  "M69": {
+    "a": "Hydrochloric acid",
+    "ans": "a",
+    "b": "Sulfuric acid",
+    "c": "Sodium hydroxide",
+    "d": "Alkyl halide",
+    "q": "In the preparation of diazonium salts, what acid is used alongside nitrous acid?",
+    "topic": "Reactions of Amines"
+  },
+  "M70": {
+    "a": "Quaternary ethyl ammonium iodide",
+    "ans": "a",
+    "b": "Diethyl amine",
+    "c": "$N$-Ethyl acetamide",
+    "d": "Benzene diazonium chloride",
+    "q": "What is the final product formed when triethyl amine reacts with ethyl iodide ($C_2H_5I$)?",
+    "topic": "Reactions of Amines"
+  },
+  "M71": {
+    "a": "Secondary amide",
+    "ans": "a",
+    "b": "Tertiary amine",
+    "c": "Diazonium ion",
+    "d": "Alkyl halide",
+    "q": "During a laboratory synthesis, a student reacts a primary amine with an acid halide. What specific functional group derivative is produced as the main organic product?",
+    "topic": "Reactions of Amines"
+  },
+  "M72": {
+    "a": "The reaction mixture must be kept below $10\\,^\\circ\\text{C}$ to form diazonium compounds properly",
+    "ans": "a",
+    "b": "To speed up the alkylation reaction",
+    "c": "To prevent the formation of secondary amides",
+    "d": "To crystallize the phenyl azo dye",
+    "q": "A researcher maintaining a diazonium salt preparation mixture at $8\\,^\\circ\\text{C}$ does so because:",
+    "topic": "Reactions of Amines"
+  },
+  "M73": {
+    "a": "Benzene diazonium chloride",
+    "ans": "a",
+    "b": "Acetyl chloride",
+    "c": "Ethyl iodide",
+    "d": "Nitrous acid",
+    "q": "An industrial chemist wants to produce phenyl azo compounds for use in the textile and cosmetics industries. Which compound should be combined with phenol?",
+    "topic": "Reactions of Amines"
+  },
+  "M74": {
+    "a": "Diethyl amine",
+    "ans": "a",
+    "b": "Triethyl amine",
+    "c": "Quaternary ethyl ammonium iodide",
+    "d": "$N$-Ethyl acetamide",
+    "q": "If an experiment involves the alkylation of $C_2H_5NH_2$ using $C_2H_5I$, what is the intermediate amine formed in the first step of the reaction sequence?",
+    "topic": "Reactions of Amines"
+  },
+  "M75": {
+    "a": "The delocalized electron in the benzene ring",
+    "ans": "a",
+    "b": "The presence of chloride ions in solution",
+    "c": "The reaction with hydrochloric acid",
+    "d": "The formation of an orange-red dye",
+    "q": "Why is an aromatic diazonium ion significantly more stable than an aliphatic one?",
+    "topic": "Reactions of Amines"
+  },
+  "M76": {
+    "a": "$RNH_2$",
+    "ans": "b",
+    "b": "$RNHR$",
+    "c": "$NH_3$",
+    "d": "$RCONH_2$",
+    "q": "General formula for secondary amine is",
+    "topic": "Exercise"
+  },
+  "M77": {
+    "a": "$RNH_2$",
+    "ans": "c",
+    "b": "$RNO_3$",
+    "c": "$RCN$",
+    "d": "$ROH$",
+    "q": "General formula for nitriles is",
+    "topic": "Exercise"
+  },
+  "M78": {
+    "a": "$KMnO_4$",
+    "ans": "c",
+    "b": "$K_2Cr_2O_7$",
+    "c": "$LiAlH_4$",
+    "d": "$NaOH$",
+    "q": "Which of the following is a reducing agent?",
+    "topic": "Exercise"
+  },
+  "M79": {
+    "a": "$RX$",
+    "ans": "d",
+    "b": "$RCOR$",
+    "c": "$RCHO$",
+    "d": "$RNH_2$",
+    "q": "Which can donate an electron pair?",
+    "topic": "Exercise"
+  }
+    }
+              },
+              "Chapter 21: Organic Synthesis": {
     "Questions": {
   "M1": {
     "a": "$-\\text{OH}$",
